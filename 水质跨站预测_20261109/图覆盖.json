@@ -1,0 +1,18 @@
+{
+  "selection": {
+    "cut": "2025-04-24",
+    "latest_graph_observation": "2025-04-23 20:00:00",
+    "edges": 6838,
+    "connected_stations": 737,
+    "test_pairs_with_history": 22687,
+    "test_pairs_with_origin": 21830
+  },
+  "final": {
+    "cut": "2025-04-29",
+    "latest_graph_observation": "2025-04-28 20:00:00",
+    "edges": 6484,
+    "connected_stations": 738,
+    "test_pairs_with_history": 22764,
+    "test_pairs_with_origin": 22027
+  }
+}

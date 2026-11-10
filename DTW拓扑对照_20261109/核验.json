@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "independent_DTW_pairs": 52,
+  "degrees_and_mass_matched": true,
+  "test_truth_identical": true
+}

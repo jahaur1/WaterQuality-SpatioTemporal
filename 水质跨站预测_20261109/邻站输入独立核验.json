@@ -1,0 +1,20 @@
+{
+  "selection": {
+    "edges": 6838,
+    "all_windows": 63644,
+    "channels": 4,
+    "source_timestamps_no_later_than_origin": true,
+    "same_basin": true,
+    "self_edges": 0,
+    "reconstructed_all_messages": true
+  },
+  "final": {
+    "edges": 6484,
+    "all_windows": 63644,
+    "channels": 4,
+    "source_timestamps_no_later_than_origin": true,
+    "same_basin": true,
+    "self_edges": 0,
+    "reconstructed_all_messages": true
+  }
+}

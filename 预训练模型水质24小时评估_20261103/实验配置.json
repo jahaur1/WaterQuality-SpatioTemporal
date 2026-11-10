@@ -1,0 +1,34 @@
+{
+  "source_sha256": "9267d65df4c67f934339812b9fdea839696594c8c55af6b8f6fefb445d3cb7eb",
+  "test_index_sha256": "c62d7aa536a800dce406f97088efe2a3cc8ae2e656c6264c0ab7ab1f0b13471e",
+  "old_predictions_sha256": "25891d5d435a79fa3b9f306293aae4dff8ce4e3b8b77b01931c45c5a9d7c027d",
+  "stations": 750,
+  "test_pairs": 23136,
+  "history_observations": 6,
+  "grid_hours": 4,
+  "prediction_steps": 6,
+  "context_grid": 32,
+  "max_history_hours": 120,
+  "fill": "causal forward fill within last six observations; no target filling",
+  "samples": 20,
+  "point_forecast": "sample median (average of two central order statistics for even sample count)",
+  "seed": 20261103,
+  "tuning": "none; frozen pretrained weights; no fine-tuning; fixed patch8 for MOIRAI",
+  "MOIRAI_future": "only target-time 5 easy values observed; first 5 future grid steps masked; no future chemicals",
+  "Timer_padding": "normalize each window over available grid history; left pad to96 with normalized zero (window mean), explicit model length adaptation",
+  "Sundial_padding": "normalize over available history; left pad to32 with normalized zero; revin=False to avoid including padding in statistics",
+  "unknown_padding": "Chronos NaN; MOIRAI zero plus observed mask and past_is_pad",
+  "active_models": [
+    "MOIRAI-small",
+    "MOIRAI-base",
+    "MOIRAI-large"
+  ],
+  "excluded_models_per_user": [
+    "Chronos-tiny",
+    "Sundial-base",
+    "Timer-base"
+  ],
+  "excluded_reason": "Local versions do not natively accept the required future covariates; no training adapter or new weights requested.",
+  "forecast_setting": "frozen-weight retrospective conditional forecast; history chemical measurements updated at every origin",
+  "input_verification": "Future input perturbation and no-future ablation verified separately in 未来输入隔离核验.json"
+}

@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "test_truth_identical": true,
+  "all_750_retained": true,
+  "missing_locations_self_only": true,
+  "distance_edges_verified": 30
+}

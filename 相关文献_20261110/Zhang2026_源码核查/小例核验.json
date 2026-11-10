@@ -1,0 +1,31 @@
+{
+  "direction_preserved_by_normalization": true,
+  "normalized_two_node_support": [
+    [
+      0.4999999701976776,
+      0.0
+    ],
+    [
+      0.7071067690849304,
+      1.0
+    ]
+  ],
+  "identity_graph_other_node_perturbation_changes_target_hidden_state": 0.1341562420129776,
+  "identity_graph_after_per_node_gate_split_change": 0.0,
+  "gate_split_issue_confirmed": true,
+  "r2_formula_example": {
+    "y": [
+      0.0,
+      1.0,
+      2.0
+    ],
+    "pred": [
+      1.0,
+      2.0,
+      3.0
+    ],
+    "author_r2": 0.3999999761581421,
+    "standard_r2": -0.5
+  },
+  "note": "Checks of public code only; not a replication or verdict on the published experiments. The saved source is unchanged. No training performed."
+}

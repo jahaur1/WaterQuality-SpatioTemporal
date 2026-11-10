@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "repo": "google/timesfm-3.0-pytorch",
+  "revision": "43046b85ec22d584a13f8098c2ed39c889e129c2",
+  "size": 1322898824,
+  "sha256": "a7592b0a8432baee54483254e5647856911ce69e09d09a9bb65904b2d98f17da",
+  "verified_against": "official Hugging Face LFS sha256"
+}

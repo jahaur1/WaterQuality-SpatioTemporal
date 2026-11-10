@@ -1,0 +1,93 @@
+{
+  "bootstrap_station_resampling": {
+    "delta_mean": -0.003923239849967987,
+    "interval95": [
+      -0.013226211017841974,
+      0.006036038400755672
+    ],
+    "draws": 3000,
+    "note": "Descriptive station bootstrap only; spatial dependence and training seed uncertainty not covered."
+  },
+  "threshold_turnover": {
+    "0.5": {
+      "old": 168,
+      "new": 169,
+      "gained": 1,
+      "lost": 0,
+      "retained": 168
+    },
+    "0.8": {
+      "old": 10,
+      "new": 12,
+      "gained": 2,
+      "lost": 0,
+      "retained": 10
+    }
+  },
+  "graphs": {
+    "GraphWaveNet拓扑对照_20261109": {
+      "gate_tanh": [
+        0.011054445058107376,
+        0.01631876640021801,
+        0.01368391141295433,
+        0.0068443892523646355
+      ],
+      "adaptive_normalized_entropy": 0.9999985098838806,
+      "adaptive_top3_mass_mean": 0.004081992898136377,
+      "adaptive_outside_basin_mass_mean": 0.8421751260757446,
+      "adaptive_absolute_change_from_svd_init_mean": 1.0939265138176779e-07,
+      "adaptive_row_total_variation_from_init_mean": 4.102224193047732e-05,
+      "gcn_weight_block_frobenius_norms": [
+        2.2560055255889893,
+        2.2465853691101074,
+        2.232325315475464,
+        2.2481462955474854,
+        2.2371888160705566
+      ]
+    },
+    "三图联合预测_20261110": {
+      "gate_tanh": [
+        0.010432911105453968,
+        0.01549248956143856,
+        0.012559188529849052,
+        0.006453356705605984
+      ],
+      "adaptive_normalized_entropy": 0.9999985098838806,
+      "adaptive_top3_mass_mean": 0.004082408268004656,
+      "adaptive_outside_basin_mass_mean": 0.8421664834022522,
+      "adaptive_absolute_change_from_svd_init_mean": 9.251318289216215e-08,
+      "adaptive_row_total_variation_from_init_mean": 3.4692442568484694e-05,
+      "gcn_weight_block_frobenius_norms": [
+        1.9528270959854126,
+        1.8902437686920166,
+        1.9312149286270142,
+        1.8975244760513306,
+        1.9035532474517822,
+        1.904530644416809,
+        1.8878134489059448
+      ]
+    }
+  },
+  "training": {
+    "total_refit_pairs": 38171,
+    "total_train_origins": 103,
+    "sampled_updates": 24,
+    "unique_origins_sampled": 20,
+    "pair_presentations": 8770,
+    "unique_pairs_presented": 7122,
+    "unique_pair_fraction": 0.18658143616881925
+  },
+  "test": {
+    "stations": 750,
+    "min_pairs": 9,
+    "median_pairs": 13.5,
+    "stations_under20": 386
+  },
+  "fixed_graphs": {
+    "pearson_edges": 5765,
+    "distance_edges": 693,
+    "common_edges": 77,
+    "distance_nonself_senders_receivers": 241,
+    "distance_self_only": 509
+  }
+}

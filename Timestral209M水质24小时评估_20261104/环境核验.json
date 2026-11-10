@@ -1,0 +1,28 @@
+{
+  "RAM_available_GB": 15.128825856,
+  "disk_free_GB": 95.540301824,
+  "GPU": "NVIDIA GeForce RTX 5060 Ti",
+  "VRAM_GB": 17.102864384,
+  "weights_GB": 0.837271648,
+  "fingerprint": {
+    "weights_sha256": "1456effb9927e3daa8c7234f10497e3424233869245a9c72b8ecebaf7ad2b7fa",
+    "inputs_sha256": "6d59b695678e7554a1a8c3c386f28dfecb5050eec9e5c910475a4dd68111dc41",
+    "limit": 0,
+    "N": 23136,
+    "batch_windows": 64,
+    "precision": "float32",
+    "point_quantile": 0.5,
+    "grid_hours": 4,
+    "prediction_length": 6,
+    "context_length": 32,
+    "fine_tune": false,
+    "official_source_commit": "a534bdbd244d64f3d9d743f46c7bf6fc330ed4ff",
+    "parameter_tensor_elements": 209312256,
+    "native_api": "TimestralForecaster.forecast with observation_mask and NaN known_covariates",
+    "history_covariate_role": "same known_covariates in both arms; all future NaN in history_only",
+    "high_level_wrapper_interpolation_used": false,
+    "symmetric_averaging": true,
+    "quantile_real_cap_k": 10000.0,
+    "torch": "2.11.0+cu128"
+  }
+}

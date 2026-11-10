@@ -1,0 +1,7 @@
+﻿模型,输入条件,站点数,至少一项R2大于05,四项全部R2大于05,至少一项R2大于05_且配对至少20,至少一项R2大于08,四项全部R2大于08,至少一项R2大于08_且配对至少20
+MOIRAI-small,history_only,750,88,1,56,7,0,4
+MOIRAI-small,future_easy,750,88,1,56,7,0,4
+MOIRAI-base,history_only,750,73,1,44,2,0,2
+MOIRAI-base,future_easy,750,76,1,45,2,0,2
+MOIRAI-large,history_only,750,58,1,28,3,0,2
+MOIRAI-large,future_easy,750,57,1,28,3,0,2

@@ -1,0 +1,14 @@
+[
+  {
+    "future": false,
+    "parameter_count": 14,
+    "source_forward_and_gradient_exact": true,
+    "batch_isolation": true
+  },
+  {
+    "future": true,
+    "parameter_count": 466,
+    "source_forward_and_gradient_exact": true,
+    "batch_isolation": true
+  }
+]

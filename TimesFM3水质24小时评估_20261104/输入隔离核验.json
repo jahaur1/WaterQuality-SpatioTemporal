@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "no_future_chemistry_in_interface": true,
+  "future_easy_changes_prediction": 0.37183666229248047,
+  "history_only_ignores_future_easy": 0.0,
+  "masked_value_filler_does_not_affect_output": 0.0,
+  "isolated_task_vs_batch_max_abs_difference": 4.76837158203125e-07,
+  "fingerprint": {
+    "weights_sha256": "a7592b0a8432baee54483254e5647856911ce69e09d09a9bb65904b2d98f17da",
+    "inputs_sha256": "6d59b695678e7554a1a8c3c386f28dfecb5050eec9e5c910475a4dd68111dc41",
+    "limit": 0,
+    "N": 23136,
+    "batch_windows": 64,
+    "precision": "float32",
+    "point_quantile": 0.5,
+    "sort_quantiles": true,
+    "grid_hours": 4,
+    "prediction_length": 6,
+    "context_length": 32,
+    "fine_tune": false,
+    "official_source_commit": "e51928e27119cb17bebc005be2696b75e0a9e688",
+    "parameter_tensor_elements": 330710976,
+    "native_api": "TimesFM3Torch.decode with explicit target_mask/past_future_mask",
+    "history_covariate_role": "same past_future_covariates in both arms; all future masked in history_only",
+    "high_level_wrapper_interpolation_used": false,
+    "symmetric_averaging": false,
+    "torch": "2.11.0+cu128"
+  }
+}

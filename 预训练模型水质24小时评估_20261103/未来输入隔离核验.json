@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "native_future_easy_perturbation_changes_output_with_identical_rng": 15.052215576171875,
+  "history_only_ignores_target_time_easy_with_identical_rng": 0.0,
+  "future_chemical_target_not_in_model_interface": true,
+  "future_easy_channels": 5,
+  "history_chemical_channels": 4,
+  "future_horizon_steps": 6,
+  "grid_hours": 4,
+  "uni2ts_version": "1.2.0",
+  "native_source_sha256": {
+    "D:\\AI\\conda-envs\\tato-moirai\\Lib\\site-packages\\uni2ts\\model\\moirai\\forecast.py": "ed03dca4076b2329b2785d17dbe7ca8ab86d3cac28c2ab6f918c7da1ee642e20",
+    "D:\\AI\\conda-envs\\tato-moirai\\Lib\\site-packages\\uni2ts\\model\\moirai\\module.py": "bbd8db3db8de797ceb424c0aa0bcb093026d31c0758fc9dbc95d808368fd4594"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "stations": 750,
+  "test_pairs": 23136,
+  "same_initial_trainable_weights": true,
+  "same_declared_trainable_parameters": 339612,
+  "steps": 24,
+  "nonzero_lag_edges": 1384,
+  "receivers_with_nonzero_lag": 571,
+  "lag_minus_current_mean_r2": 0.002343979537143288,
+  "station_bootstrap_descriptive_interval95": [
+    0.0011993363087426955,
+    0.0038518976807307083
+  ],
+  "internal_validation": {
+    "selected_nonzero_edges": 1236,
+    "valid_holdout_edges": 554,
+    "improved": 290,
+    "worsened": 261,
+    "mean_delta_r": 0.007554851971577025,
+    "median_delta_r": 0.01490296204458905
+  },
+  "independent_checks": {
+    "passed": true,
+    "exact_training_edge_correlations_replayed": 100,
+    "test_period_chemical_poisoning_does_not_change_graph": true,
+    "zero_and_lagged_have_same_edges_and_weights": true,
+    "temporal_propagation_matches_author_nconv": true,
+    "two_hop_delays_add_not_subtract": true,
+    "physical_upstream_not_established": true
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "passed": true,
+  "official_source_git_checkout_unchanged": true,
+  "source_and_runner_hashes_verified": true,
+  "backbone_weight_hashes_unchanged": true,
+  "same_750_stations_and_23136_test_pairs": true,
+  "all_label_releases_causal_and_at_first_available_origin": true,
+  "verified_release_events": 41692,
+  "no_reuse_of_a_label_for_multiple_completed_pair_updates": true,
+  "metrics_groups_checked": 15000,
+  "chronological_replays": [
+    {
+      "backbone": "Timestral",
+      "station": "S0006",
+      "pairs": 12,
+      "chronological_output_and_final_state_exact": true
+    },
+    {
+      "backbone": "Timestral",
+      "station": "S0466",
+      "pairs": 61,
+      "chronological_output_and_final_state_exact": true
+    },
+    {
+      "backbone": "Timestral",
+      "station": "S0838",
+      "pairs": 13,
+      "chronological_output_and_final_state_exact": true
+    },
+    {
+      "backbone": "Timestral",
+      "station": "S1262",
+      "pairs": 11,
+      "chronological_output_and_final_state_exact": true
+    },
+    {
+      "backbone": "Timestral",
+      "station": "S1898",
+      "pairs": 11,
+      "chronological_output_and_final_state_exact": true
+    },
+    {
+      "backbone": "Chronos2",
+      "station": "S0006",
+      "pairs": 12,
+      "chronological_output_and_final_state_exact": true
+    },
+    {
+      "backbone": "Chronos2",
+      "station": "S0466",
+      "pairs": 61,
+      "chronological_output_and_final_state_exact": true
+    },
+    {
+      "backbone": "Chronos2",
+      "station": "S0838",
+      "pairs": 13,
+      "chronological_output_and_final_state_exact": true
+    },
+    {
+      "backbone": "Chronos2",
+      "station": "S1262",
+      "pairs": 11,
+      "chronological_output_and_final_state_exact": true
+    },
+    {
+      "backbone": "Chronos2",
+      "station": "S1898",
+      "pairs": 11,
+      "chronological_output_and_final_state_exact": true
+    }
+  ],
+  "previous_cache_independent_source_validation_reused": true,
+  "seconds": 8.69345235824585
+}

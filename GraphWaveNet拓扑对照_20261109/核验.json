@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "official_commit": "6b162e80c59a1d494809252eca055cff93dc66b1",
+  "source_sha256": "b2fd1d7acd32d9c923f2a262c63d16e1493f174fe253a5d7dafb5e26baf5e6f8",
+  "source_checkout_clean": true,
+  "test_pairs": 23136,
+  "same_truth": true,
+  "graphs": [
+    {
+      "model": "GWN自适应图",
+      "shape": [
+        750,
+        750
+      ],
+      "mean_cross_basin_weight": 0.8421876627604167
+    },
+    {
+      "model": "GWN固定加自适应",
+      "shape": [
+        750,
+        750
+      ],
+      "mean_cross_basin_weight": 0.8421751302083333
+    }
+  ]
+}

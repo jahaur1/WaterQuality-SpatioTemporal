@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "future_easy_changes_prediction": 0.9852018356323242,
+  "history_only_ignores_future_easy": 0.0,
+  "isolated_task_vs_batch_max_abs_difference": 2.384185791015625e-07,
+  "no_future_chemistry_in_interface": true,
+  "cross_learning": false,
+  "fingerprint": {
+    "weights_sha256": "ddcda3c7508bf2528087723e98a20707cc04b7f370ae275a9fd88078ddba4f42",
+    "inputs_sha256": "6d59b695678e7554a1a8c3c386f28dfecb5050eec9e5c910475a4dd68111dc41",
+    "limit": 0,
+    "N": 23136,
+    "batch_windows": 128,
+    "batch_variates": 1152,
+    "cross_learning": false,
+    "precision": "float32",
+    "point_quantile": 0.5,
+    "grid_hours": 4,
+    "prediction_length": 6,
+    "context_length": 32,
+    "fine_tune": false,
+    "chronos_version": "2.3.2",
+    "parameter_tensor_elements": 119477664
+  }
+}

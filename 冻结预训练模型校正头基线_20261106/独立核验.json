@@ -1,0 +1,43 @@
+{
+  "passed": true,
+  "source_windows_verified": 63644,
+  "stations": 750,
+  "scalers_checked": 1500,
+  "metric_groups_verified": 24000,
+  "head_checks": [
+    {
+      "model": "Timestral+A_仅预测残差头",
+      "selection_grid_independently_verified": true,
+      "weighted_ridge_closed_form_coefficients_match": true,
+      "all_test_predictions_replayed": 23136
+    },
+    {
+      "model": "Timestral+B_结合观测残差头",
+      "selection_grid_independently_verified": true,
+      "weighted_ridge_closed_form_coefficients_match": true,
+      "all_test_predictions_replayed": 23136
+    },
+    {
+      "model": "Chronos2+A_仅预测残差头",
+      "selection_grid_independently_verified": true,
+      "weighted_ridge_closed_form_coefficients_match": true,
+      "all_test_predictions_replayed": 23136
+    },
+    {
+      "model": "Chronos2+B_结合观测残差头",
+      "selection_grid_independently_verified": true,
+      "weighted_ridge_closed_form_coefficients_match": true,
+      "all_test_predictions_replayed": 23136
+    },
+    {
+      "model": "观测线性对照",
+      "selection_grid_independently_verified": true,
+      "weighted_ridge_closed_form_coefficients_match": true,
+      "all_test_predictions_replayed": 23136
+    }
+  ],
+  "frozen_backbone_weight_hashes_unchanged": true,
+  "previous_test_forecasts_byte_equal": true,
+  "chronological_train_validation_refit_boundaries_verified": true,
+  "elapsed_seconds": 7.20602011680603
+}

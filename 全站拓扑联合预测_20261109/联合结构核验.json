@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "adjacency_shape": [
+    750,
+    750
+  ],
+  "stations": 750,
+  "off_diagonal_edges": 5765,
+  "cross_node_gradient": 0.0023117088712751865,
+  "test_pairs": 23136,
+  "test_truth_matches_previous": true
+}

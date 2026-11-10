@@ -1,0 +1,102 @@
+{
+  "_id": "6a8cc03f8aeb376d539fb81f",
+  "id": "google/timesfm-3.0-pytorch",
+  "private": false,
+  "pipeline_tag": "time-series-forecasting",
+  "tags": [
+    "safetensors",
+    "time-series",
+    "forecasting",
+    "pretrained",
+    "pytorch",
+    "google",
+    "time-series-forecasting",
+    "arxiv:2310.10688",
+    "license:other",
+    "region:us"
+  ],
+  "downloads": 694370,
+  "likes": 1009,
+  "modelId": "google/timesfm-3.0-pytorch",
+  "author": "google",
+  "sha": "43046b85ec22d584a13f8098c2ed39c889e129c2",
+  "lastModified": "2026-09-02T15:44:59.000Z",
+  "gated": false,
+  "disabled": false,
+  "model-index": null,
+  "config": {},
+  "cardData": {
+    "license": "other",
+    "license_name": "timesfm-non-commercial-license-v1.0",
+    "license_link": "LICENSE",
+    "tags": [
+      "time-series",
+      "forecasting",
+      "pretrained",
+      "pytorch",
+      "google"
+    ],
+    "pipeline_tag": "time-series-forecasting"
+  },
+  "siblings": [
+    {
+      "rfilename": ".gitattributes",
+      "blobId": "a6344aac8c09253b3b630fb776ae94478aa0275b",
+      "size": 1519
+    },
+    {
+      "rfilename": "LICENSE",
+      "blobId": "a91b931cb18b7c36e501366a4acec4cc51abc2d3",
+      "size": 7270
+    },
+    {
+      "rfilename": "README.md",
+      "blobId": "98c2720f9d51017934ec873c8b0a419b8428bb9b",
+      "size": 1436
+    },
+    {
+      "rfilename": "config.json",
+      "blobId": "c1de41214b9c86940224b802a0d1744d65ad7781",
+      "size": 1273
+    },
+    {
+      "rfilename": "model.safetensors",
+      "blobId": "8c1bfefdfab936c302b14c25f46265e65805d7c5",
+      "size": 1322898824,
+      "lfs": {
+        "sha256": "a7592b0a8432baee54483254e5647856911ce69e09d09a9bb65904b2d98f17da",
+        "size": 1322898824,
+        "pointerSize": 135
+      }
+    }
+  ],
+  "spaces": [
+    "Joaozecchin/timesfm-3-pytorch-demo",
+    "Vladare777/timesfm3-burgas-demo",
+    "abhishek-shine/nifty-timesfm-3",
+    "Bayway/due-torri-due-ruote",
+    "hrczggyorgy/TSFMs_forecasting",
+    "NicolaQua/timesfm-3-forecasting",
+    "wizardofwaleska/timesfm-3-forecasting",
+    "DevairMd/timesfm3-mcp",
+    "habanany/timesfm-3-forecast",
+    "scaihai/enkwador-forecast-inference",
+    "hari31416/ts-foundation-lab",
+    "Dhshshd/Ninqggoai",
+    "jmourad/TimesFM30",
+    "drjalwajalal/timesfm-3-forecasting-demo",
+    "rahul7star/timetravel",
+    "Beexly/timesfm3-benchmark",
+    "fmaranis/timesfm-stage-a",
+    "carbon-arc/RealCast-bench",
+    "prajimrm/qdynamics-forecasts"
+  ],
+  "createdAt": "2026-08-24T22:05:51.000Z",
+  "safetensors": {
+    "parameters": {
+      "F32": 330710976
+    },
+    "total": 330710976
+  },
+  "usedStorage": 1322898824
+}

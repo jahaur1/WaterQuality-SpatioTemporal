@@ -1,0 +1,182 @@
+{
+  "联合拓扑": {
+    "epochs": 1,
+    "validation": [
+      {
+        "epoch": 1,
+        "validation_MSE": 8.236268289502581
+      },
+      {
+        "epoch": 2,
+        "validation_MSE": 8.39190535096629
+      },
+      {
+        "epoch": 3,
+        "validation_MSE": 8.570249447540354
+      },
+      {
+        "epoch": 4,
+        "validation_MSE": 8.73841260929093
+      },
+      {
+        "epoch": 5,
+        "validation_MSE": 8.56308452203662
+      },
+      {
+        "epoch": 6,
+        "validation_MSE": 8.62737508321209
+      },
+      {
+        "epoch": 7,
+        "validation_MSE": 8.659346004447128
+      },
+      {
+        "epoch": 8,
+        "validation_MSE": 8.657482954389481
+      },
+      {
+        "epoch": 9,
+        "validation_MSE": 8.766438676979247
+      },
+      {
+        "epoch": 10,
+        "validation_MSE": 8.750481472013286
+      },
+      {
+        "epoch": 11,
+        "validation_MSE": 8.795227057483254
+      },
+      {
+        "epoch": 12,
+        "validation_MSE": 8.845930135301142
+      },
+      {
+        "epoch": 13,
+        "validation_MSE": 8.847397070076589
+      },
+      {
+        "epoch": 14,
+        "validation_MSE": 8.983098509388382
+      },
+      {
+        "epoch": 15,
+        "validation_MSE": 8.866989013430603
+      },
+      {
+        "epoch": 16,
+        "validation_MSE": 8.965736349785878
+      },
+      {
+        "epoch": 17,
+        "validation_MSE": 9.052787347644669
+      },
+      {
+        "epoch": 18,
+        "validation_MSE": 9.000276444287362
+      },
+      {
+        "epoch": 19,
+        "validation_MSE": 8.980272300840014
+      },
+      {
+        "epoch": 20,
+        "validation_MSE": 9.058542064140221
+      },
+      {
+        "epoch": 21,
+        "validation_MSE": 9.060444790065334
+      }
+    ],
+    "parameters": 4164
+  },
+  "仅自身连接": {
+    "epochs": 1,
+    "validation": [
+      {
+        "epoch": 1,
+        "validation_MSE": 8.261724218835786
+      },
+      {
+        "epoch": 2,
+        "validation_MSE": 8.517350793002635
+      },
+      {
+        "epoch": 3,
+        "validation_MSE": 8.728739632803064
+      },
+      {
+        "epoch": 4,
+        "validation_MSE": 8.900350198508017
+      },
+      {
+        "epoch": 5,
+        "validation_MSE": 8.715219491188098
+      },
+      {
+        "epoch": 6,
+        "validation_MSE": 8.860939944891292
+      },
+      {
+        "epoch": 7,
+        "validation_MSE": 8.903144988058637
+      },
+      {
+        "epoch": 8,
+        "validation_MSE": 8.913188987523334
+      },
+      {
+        "epoch": 9,
+        "validation_MSE": 9.0450887281075
+      },
+      {
+        "epoch": 10,
+        "validation_MSE": 8.967413030498518
+      },
+      {
+        "epoch": 11,
+        "validation_MSE": 9.019117548657626
+      },
+      {
+        "epoch": 12,
+        "validation_MSE": 9.097912641889481
+      },
+      {
+        "epoch": 13,
+        "validation_MSE": 9.054374167879104
+      },
+      {
+        "epoch": 14,
+        "validation_MSE": 9.212637450072746
+      },
+      {
+        "epoch": 15,
+        "validation_MSE": 9.064071593279895
+      },
+      {
+        "epoch": 16,
+        "validation_MSE": 9.161181817557923
+      },
+      {
+        "epoch": 17,
+        "validation_MSE": 9.254417318065773
+      },
+      {
+        "epoch": 18,
+        "validation_MSE": 9.168959359901724
+      },
+      {
+        "epoch": 19,
+        "validation_MSE": 9.08499718194109
+      },
+      {
+        "epoch": 20,
+        "validation_MSE": 9.166780618617548
+      },
+      {
+        "epoch": 21,
+        "validation_MSE": 9.21947628283875
+      }
+    ],
+    "parameters": 4164
+  }
+}

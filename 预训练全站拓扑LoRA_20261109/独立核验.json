@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "all_scored_histories_equal_original": true,
+  "all_future_easy_equal_original": true,
+  "no_future_chemistry_in_inputs": true,
+  "cross_station_latent_gradient": 0.0008168341591954231,
+  "lora_weights_updated": true,
+  "graph_gate": [
+    0.01694921776652336,
+    0.02085656113922596,
+    0.019436132162809372,
+    0.012932317331433296
+  ],
+  "test_pairs": 23136
+}

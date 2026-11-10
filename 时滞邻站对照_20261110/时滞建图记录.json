@@ -1,0 +1,46 @@
+{
+  "selection": {
+    "cut": "2025-04-24",
+    "latest_target": "2025-04-23 20:00:00",
+    "latest_possible_source": "2025-04-22 20:00:00",
+    "edges": 6838,
+    "nonzero_lag_edges": 1236,
+    "lag_counts": {
+      "0": 5602,
+      "4": 375,
+      "8": 279,
+      "12": 237,
+      "24": 345
+    }
+  },
+  "final": {
+    "cut": "2025-04-29",
+    "latest_target": "2025-04-28 20:00:00",
+    "latest_possible_source": "2025-04-27 20:00:00",
+    "edges": 6484,
+    "nonzero_lag_edges": 1384,
+    "lag_counts": {
+      "0": 5100,
+      "4": 365,
+      "8": 274,
+      "12": 241,
+      "24": 504
+    }
+  },
+  "rules": {
+    "candidate_lags_hours": [
+      0,
+      4,
+      8,
+      12,
+      24
+    ],
+    "relationship": "receiver chemical at origin+24h versus sender same chemical at origin-lag",
+    "min_exact_pairs": 16,
+    "score": "r*n/(n+16)",
+    "minimum_score_gain": 0.02,
+    "same_edges_and_weights_for_zero_and_lagged": true,
+    "negative_lags_forbidden": true,
+    "physical_upstream_not_assumed": true
+  }
+}

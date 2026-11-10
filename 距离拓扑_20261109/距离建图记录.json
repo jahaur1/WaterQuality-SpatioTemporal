@@ -1,0 +1,14 @@
+{
+  "stations": 750,
+  "map_located": 301,
+  "eligible": 249,
+  "connected": 241,
+  "edges": 693,
+  "self_only": 509,
+  "k": 3,
+  "cutoff_km": 250,
+  "sigma_km": 100,
+  "coordinate_system": "BD09LL",
+  "geographic_approximation": true,
+  "uncertainty_overlap_edges": 72
+}

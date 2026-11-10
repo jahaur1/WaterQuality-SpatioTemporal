@@ -1,0 +1,28 @@
+{
+  "python": "3.11.16 | packaged by conda-forge | (main, Sep  2 2026, 23:31:17) [MSC v.1944 64 bit (AMD64)]",
+  "torch": "2.11.0+cu128",
+  "numpy": "1.26.4",
+  "pandas": "2.1.4",
+  "gpu": "NVIDIA GeForce RTX 5060 Ti",
+  "seed": 2025,
+  "features": "M",
+  "scale": "StandardScaler fitted on training only",
+  "test_drop_last": false,
+  "source": "D:\\Project\\2023\u5e744\u6708-2025\u5e744\u6708\\XLinear-main\\XLinear-main",
+  "data": {
+    "ETTh1": {
+      "rows": 17420,
+      "missing": 0,
+      "sha256": "f18de3ad269cef59bb07b5438d79bb3042d3be49bdeecf01c1cd6d29695ee066",
+      "start": "2016-07-01 00:00:00",
+      "end": "2018-06-26 19:00:00"
+    },
+    "ETTm2": {
+      "rows": 69680,
+      "missing": 0,
+      "sha256": "db973ca252c6410a30d0469b13d696cf919648d0f3fd588c60f03fdbdbadd1fd",
+      "start": "2016-07-01 00:00:00",
+      "end": "2018-06-26 19:45:00"
+    }
+  }
+}

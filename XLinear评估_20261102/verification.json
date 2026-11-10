@@ -1,0 +1,90 @@
+[
+  {
+    "dataset": "ETTh1",
+    "pred_len": 96,
+    "shape": [
+      2785,
+      96,
+      7
+    ],
+    "finite": true,
+    "metrics_match_training_log": true
+  },
+  {
+    "dataset": "ETTh1",
+    "pred_len": 192,
+    "shape": [
+      2689,
+      192,
+      7
+    ],
+    "finite": true,
+    "metrics_match_training_log": true
+  },
+  {
+    "dataset": "ETTh1",
+    "pred_len": 336,
+    "shape": [
+      2545,
+      336,
+      7
+    ],
+    "finite": true,
+    "metrics_match_training_log": true
+  },
+  {
+    "dataset": "ETTh1",
+    "pred_len": 720,
+    "shape": [
+      2161,
+      720,
+      7
+    ],
+    "finite": true,
+    "metrics_match_training_log": true
+  },
+  {
+    "dataset": "ETTm2",
+    "pred_len": 96,
+    "shape": [
+      11425,
+      96,
+      7
+    ],
+    "finite": true,
+    "metrics_match_training_log": true
+  },
+  {
+    "dataset": "ETTm2",
+    "pred_len": 192,
+    "shape": [
+      11329,
+      192,
+      7
+    ],
+    "finite": true,
+    "metrics_match_training_log": true
+  },
+  {
+    "dataset": "ETTm2",
+    "pred_len": 336,
+    "shape": [
+      11185,
+      336,
+      7
+    ],
+    "finite": true,
+    "metrics_match_training_log": true
+  },
+  {
+    "dataset": "ETTm2",
+    "pred_len": 720,
+    "shape": [
+      10801,
+      720,
+      7
+    ],
+    "finite": true,
+    "metrics_match_training_log": true
+  }
+]

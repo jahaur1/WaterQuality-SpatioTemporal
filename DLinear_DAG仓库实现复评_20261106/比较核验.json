@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "same_exact_test_pairs_truth_and_future_easy": true,
+  "metric_comparison_rows": 6000,
+  "conditional_macro_mean_r2": {
+    "DAG_此前适配版": -19.344915382419813,
+    "DLinear_DAG仓库结构": -32.00506177466808,
+    "DLinear_旧适配版": -29.53061642871242
+  }
+}

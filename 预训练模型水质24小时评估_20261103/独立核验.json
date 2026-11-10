@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "all_input_windows_independently_reconstructed": 23136,
+  "stations": 750,
+  "station_model_arm_target_metrics_recomputed": 18000,
+  "exact_horizon_hours": 24,
+  "same_source_and_XLinear_test_keys": true,
+  "original_source_predictions_weights_unchanged": true,
+  "independent_process_first128_predictions_replay_max_abs_diff": 0.0,
+  "scope": "computational verification; not external generalization or significance validation"
+}

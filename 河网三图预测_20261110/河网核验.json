@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "checked_edges": 27,
+  "path_ids_traced": true,
+  "distance_checked_using_independent_outlet_distance": true,
+  "outlet_distance_tolerance": "max(0.2 km, 1% of routed distance)",
+  "max_outlet_distance_discrepancy_km": 0.6000000000000796,
+  "every_route_segment_junction_checked": true,
+  "author_source_to_receiver_direction_verified": true,
+  "station_order_verified": true,
+  "conservative_is_identity": true,
+  "station_locations_still_unverified": true
+}

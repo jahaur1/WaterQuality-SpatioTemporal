@@ -1,0 +1,73 @@
+{
+  "config": {
+    "seq_len": 6,
+    "model_name": "DLinear",
+    "d_model": 16,
+    "t_ff": 16,
+    "c_ff": 16,
+    "dropout": 0.1,
+    "lr": 0.001,
+    "max_epochs": 100,
+    "patience": 10,
+    "horizon_hours": 24,
+    "history_columns": [
+      "水温(℃)",
+      "pH(无量纲)",
+      "溶解氧(mg/L)",
+      "电导率(μS/cm)",
+      "浊度(NTU)",
+      "高锰酸盐指数(mg/L)",
+      "氨氮(mg/L)",
+      "总磷(mg/L)",
+      "总氮(mg/L)"
+    ],
+    "future_easy_columns": [
+      "水温(℃)",
+      "pH(无量纲)",
+      "溶解氧(mg/L)",
+      "电导率(μS/cm)",
+      "浊度(NTU)"
+    ],
+    "target_columns": [
+      "高锰酸盐指数(mg/L)",
+      "氨氮(mg/L)",
+      "总磷(mg/L)",
+      "总氮(mg/L)"
+    ],
+    "selection_label_before": "2025-04-24 00:00:00",
+    "selection_scaler_raw_before": "2025-04-24 00:00:00",
+    "validation_label_start": "2025-04-25 00:00:00",
+    "validation_label_before": "2025-04-29 00:00:00",
+    "final_label_before": "2025-04-29 00:00:00",
+    "final_scaler_raw_before": "2025-04-29 00:00:00",
+    "test_label_start": "2025-04-30 00:00:00",
+    "test_label_end_inclusive": "2025-05-10 00:00:00",
+    "minimum_selection_train_pairs": 3,
+    "minimum_validation_pairs": 1,
+    "minimum_test_pairs": 1,
+    "seed_base": 2025,
+    "refit": true,
+    "arms": [
+      "conditional_future_easy",
+      "history_only"
+    ],
+    "model_settings": {
+      "repository": "decisionintelligence/DAG",
+      "kernel_size": 25,
+      "individual": false,
+      "temporal_weight_initialization": "1/6",
+      "history_channel_mixing": "none; select first four chemical channels",
+      "future_branch": "repository MLP concat(four chemical predictions,five future easy) 9to32to4",
+      "training_protocol": "same previous water-quality chronological split, full-batch Adam fixed lr and refit; not repository benchmark training schedule"
+    },
+    "normalization": "one training-only 9-column scaler; chemical outputs use columns 5:9; future easy uses 0:5",
+    "loss": "four standardized target MSE averaged",
+    "negative_prediction_postprocess": "clip zero, raw output also saved"
+  },
+  "fingerprint": "2898c0ba10f15bccb8eeab98a0e3979927cbcdbb4437e2c2123c61448c2ba1eb",
+  "source_dataset_sha256": "9267d65df4c67f934339812b9fdea839696594c8c55af6b8f6fefb445d3cb7eb",
+  "runner_sha256": "00ef97d39b9afc9f5faba65a45b21fa5e524140d76ed57000c219169b60fb566",
+  "adapter_sha256": "c72ab6993aa9e3646521a7e32efdd725e9d92e78c0ef3da76b1a2e9586a543b3",
+  "vendor_sha256": "1c4fb17c7b249c8e2ce79fb90b40202bbe05c6bc48b6d4f8100c40e8d5a2a175",
+  "provenance_sha256": "71a091da93d167ef8315196ef74ce65a6775b7438e8b4141f08c0bc96293c7b6"
+}

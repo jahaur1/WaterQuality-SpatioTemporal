@@ -1,0 +1,34 @@
+{
+  "source_url": "https://data.hydrosheds.org/file/HydroRIVERS/HydroRIVERS_v10_as_shp.zip",
+  "source_sha256": "29780b0a75f90024f22e7e2029e5e3045f7325cda0528db65c5cc4c864b98525",
+  "source_reaches": 1117887,
+  "coordinate_conversion": "BD09LL -> GCJ02 -> approximate WGS84 (eviltransform 0.1.1)",
+  "rules": {
+    "snap_km_max": 2,
+    "other_branch_distance_gap_min_km": 0.5,
+    "conservative_max_location_radius_km": 2,
+    "conservative_snap_km_max": 1,
+    "conservative_gap_min": "location radius",
+    "upstream_neighbours_max": 3,
+    "river_distance_max_km": 250,
+    "sigma_km": 100,
+    "station_mapping_manually_verified": false,
+    "no_travel_time_model": true
+  },
+  "graphs": {
+    "保守": {
+      "matched": 13,
+      "edges": 0,
+      "receivers": 0,
+      "participating_nodes": 0,
+      "self_only": 750
+    },
+    "探索": {
+      "matched": 153,
+      "edges": 27,
+      "receivers": 18,
+      "participating_nodes": 41,
+      "self_only": 732
+    }
+  }
+}

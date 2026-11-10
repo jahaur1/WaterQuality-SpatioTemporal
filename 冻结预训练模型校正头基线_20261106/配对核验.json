@@ -1,0 +1,15 @@
+{
+  "source_sha256": "9267d65df4c67f934339812b9fdea839696594c8c55af6b8f6fefb445d3cb7eb",
+  "total_pairs": 63644,
+  "stations": 750,
+  "splits": {
+    "selection_train": 27130,
+    "validation": 9107,
+    "refit_train": 38171,
+    "test": 23136
+  },
+  "test_history_exactly_matches_previous_inputs": true,
+  "historical_chemistry_ends_at_origin": true,
+  "future_easy_only_endpoint": true,
+  "no_future_chemical_input": true
+}

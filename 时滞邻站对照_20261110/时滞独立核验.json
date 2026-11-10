@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "exact_training_edge_correlations_replayed": 100,
+  "test_period_chemical_poisoning_does_not_change_graph": true,
+  "zero_and_lagged_have_same_edges_and_weights": true,
+  "temporal_propagation_matches_author_nconv": true,
+  "two_hop_delays_add_not_subtract": true,
+  "physical_upstream_not_established": true
+}

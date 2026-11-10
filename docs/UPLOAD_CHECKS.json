@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "staged_files": 431,
+  "staged_megabytes": 80.41,
+  "snapshot_files_verified": 417,
+  "snapshot_bytes_preserved_in_git": true,
+  "no_raw_data_or_model_binaries": true,
+  "readme_local_links_verified": true,
+  "validation": "AST parse of 107 Python files and credential-pattern scan passed; no model training rerun."
+}

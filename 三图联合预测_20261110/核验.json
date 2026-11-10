@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "three_supports_verified": true,
+  "source_receiver_direction_verified": true,
+  "convolution_input_channels": 448,
+  "same_test_pairs": 23136,
+  "steps": 24,
+  "parameters": 339484
+}

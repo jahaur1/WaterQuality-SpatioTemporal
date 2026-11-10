@@ -1,0 +1,6 @@
+# Preserve bytes in archived scripts and tables: recorded SHA256 values depend on them.
+*.py -text
+*.csv -text
+*.json -text
+*.npz -text
+*.md -text

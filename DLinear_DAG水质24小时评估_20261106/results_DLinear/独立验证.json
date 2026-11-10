@@ -1,0 +1,96 @@
+{
+  "passed": true,
+  "station_count": 750,
+  "metrics_rows": 6000,
+  "unique_test_pairs": 23136,
+  "two_arm_prediction_rows": 46272,
+  "source_sha256": "9267d65df4c67f934339812b9fdea839696594c8c55af6b8f6fefb445d3cb7eb",
+  "audited_scalers": 3000,
+  "independent_metric_groups": 6000,
+  "exact_24h_no_interpolation": true,
+  "same_pairs_and_truth_between_arms": true,
+  "history_ends_at_origin_and_uses_past_six_same_station_rows": true,
+  "future_covariates_only_target_time_five_easy_values": true,
+  "persistence_baseline_equals_origin_chemical_values": true,
+  "all_training_and_validation_label_times_precede_earliest_test_origin": true,
+  "training_only_scaler_statistics_match_source": true,
+  "official_DLinear_byte_exact_and_DAG_documented_patches_verified": true,
+  "cpu_checkpoint_replay": [
+    {
+      "station": "S0006",
+      "arm": "conditional_future_easy",
+      "test_pairs": 12,
+      "max_abs_standardized_difference": 1.1212419881445612e-11,
+      "passed": true
+    },
+    {
+      "station": "S0006",
+      "arm": "history_only",
+      "test_pairs": 12,
+      "max_abs_standardized_difference": 1.0529750682497507e-11,
+      "passed": true
+    },
+    {
+      "station": "S0466",
+      "arm": "conditional_future_easy",
+      "test_pairs": 61,
+      "max_abs_standardized_difference": 1.0607958955688446e-11,
+      "passed": true
+    },
+    {
+      "station": "S0466",
+      "arm": "history_only",
+      "test_pairs": 61,
+      "max_abs_standardized_difference": 1.058386711605408e-11,
+      "passed": true
+    },
+    {
+      "station": "S0838",
+      "arm": "conditional_future_easy",
+      "test_pairs": 13,
+      "max_abs_standardized_difference": 2.2042145886302933e-11,
+      "passed": true
+    },
+    {
+      "station": "S0838",
+      "arm": "history_only",
+      "test_pairs": 13,
+      "max_abs_standardized_difference": 2.299660462057318e-11,
+      "passed": true
+    },
+    {
+      "station": "S1262",
+      "arm": "conditional_future_easy",
+      "test_pairs": 11,
+      "max_abs_standardized_difference": 5.896305665942236e-11,
+      "passed": true
+    },
+    {
+      "station": "S1262",
+      "arm": "history_only",
+      "test_pairs": 11,
+      "max_abs_standardized_difference": 4.8691772835951497e-11,
+      "passed": true
+    },
+    {
+      "station": "S1898",
+      "arm": "conditional_future_easy",
+      "test_pairs": 11,
+      "max_abs_standardized_difference": 9.492040486946962e-11,
+      "passed": true
+    },
+    {
+      "station": "S1898",
+      "arm": "history_only",
+      "test_pairs": 11,
+      "max_abs_standardized_difference": 7.690834080698039e-11,
+      "passed": true
+    }
+  ],
+  "elapsed_seconds": 7.42,
+  "limitations": [
+    "Future easy measurements are intentionally known retrospective covariates, not real forecasts.",
+    "Historical chemical updates at every origin are user-assumed available; reporting delays and reduced testing are not simulated.",
+    "Saved data and replay verify outputs; exclusion of final test from model selection is also supported by code review."
+  ]
+}

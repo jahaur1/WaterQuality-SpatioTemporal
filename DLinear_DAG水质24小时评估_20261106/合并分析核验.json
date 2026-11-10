@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "station_count_per_model": 750,
+  "metrics": 12000,
+  "exact24h_pairs_per_arm": 23136,
+  "same_keys_and_truth_as_XLinear": true,
+  "independent_model_verifiers": [
+    "results_DLinear/独立验证.json",
+    "results_DAG/独立验证.json"
+  ],
+  "no_test_based_hyperparameter_adjustment": true
+}

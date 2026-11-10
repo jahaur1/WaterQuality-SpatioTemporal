@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "original_class_executed_from": "D:\\Project\\2023年4月-2025年4月\\2023年4月-2025年4月\\COSA官方源码水质评估_20261106\\source\\tta\\cosa.py",
+  "head_code_filename": "D:\\Project\\2023年4月-2025年4月\\2023年4月-2025年4月\\COSA官方源码水质评估_20261106\\source\\tta\\cosa.py",
+  "original_update_method_used": true,
+  "original_adaptive_lr_method_used": true,
+  "zero_gate_initial_output_exact_identity": true,
+  "context_values_padding_order_equal_native": [
+    0,
+    1,
+    5,
+    15
+  ],
+  "parameter_count": 52,
+  "native_three_step_loss_optimizer_update_changes_output": true
+}

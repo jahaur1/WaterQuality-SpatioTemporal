@@ -1,0 +1,9 @@
+{
+  "cut": "2025-04-29",
+  "max_lag_hours": 12,
+  "min_common": 16,
+  "indicator_edges": 6484,
+  "unique_edges": 5811,
+  "changed_binary_entries": 2504,
+  "matched_degree_and_neighbor_weight_mass": true
+}

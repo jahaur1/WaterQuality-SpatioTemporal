@@ -1,0 +1,10 @@
+{
+  "python": "3.11.16 | packaged by conda-forge | (main, Sep  2 2026, 23:31:17) [MSC v.1944 64 bit (AMD64)]",
+  "executable": "D:\\AI\\conda-envs\\tato\\python.exe",
+  "torch": "2.11.0+cu128",
+  "numpy": "1.26.4",
+  "pandas": "2.1.4",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "device": "cpu",
+  "gpu": null
+}

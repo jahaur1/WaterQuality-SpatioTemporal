@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "stations": 750,
+  "exact24h_pairs": 23136,
+  "metrics_independently_recomputed": 6000,
+  "reference_input_history_audit_passed_and_input_hash_matched": true,
+  "both_arm_first64_replay_exact_match": true,
+  "future_input_and_cross_task_isolation_passed": true,
+  "official_weight_sha256_verified": true,
+  "original_data_and_XLinear_predictions_unchanged": true,
+  "masked_missing_future_covariates_preserved_no_interpolation": true
+}

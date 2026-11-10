@@ -1,0 +1,7 @@
+﻿模型,参数量_权重张量元素数,权重字节数,路径,SHA256
+Chronos-tiny,8394496,33588440,D:\AI\TATO-main\CKPT\Chronos-tiny\model.safetensors,eed458758bd8165d80f496a90bcd2cfed9f1bf7d7b08677acd64e0f7d72bdcf2
+MOIRAI-small,13827528,55320200,D:\AI\TATO-main\CKPT\MOIRAI-small\model.safetensors,eaafeb166a3dfcf5728ab52a9ccc5392a23333b42a41a14e5528089ece3ef377
+MOIRAI-base,91357728,365449072,D:\AI\TATO-main\CKPT\MOIRAI-base\model.safetensors,8e3c2451ec14d430bcf45d5d312b68464fed4c654837fa0e76c1ab633fd48a05
+MOIRAI-large,310970624,1243917120,D:\AI\TATO-main\CKPT\MOIRAI-large\model.safetensors,d679e4e6991ff11b885867f2583ca757b13aae60e61fc3e5ef337b0f7b323d3e
+Sundial-base,128329680,513341448,D:\AI\TATO-main\CKPT\sundial\model.safetensors,414435b508391f92afadd2aaeec418c806776aeccbce12e638d73a139ca5ca78
+Timer-base,84142080,336580760,D:\AI\TATO-main\CKPT\Timer-base-84m\model.safetensors,9c3d18f12ffe1ea7d4fa70eb3304b26e3841164a6a265fbae4f7a05cd213aa3d

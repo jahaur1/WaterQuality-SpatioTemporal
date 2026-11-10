@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "test_pairs": 23136,
+  "stations": 750,
+  "all_three_supports_identity": true,
+  "matched_initial_graph_weights": true,
+  "neighbour_perturbation_check": {
+    "target_station": "S0006",
+    "max_absolute_prediction_change": 0.0,
+    "passed": true
+  },
+  "self_only_declared_trainable": 339484,
+  "self_only_ineffective_node_embedding_parameters": 15000,
+  "note": "Node embeddings retained for architecture matching; diagonal-only softmax has zero gradients for them. Shared training across stations remains allowed; no other-station inputs at inference."
+}

@@ -1,0 +1,2504 @@
+[
+  {
+    "path": "30天_750站点数据集_20250410-20250510/750站点名单与记录量.csv",
+    "bytes": 80786,
+    "sha256": "728542493124152d9bc313fb6aec1f19665193b920c22aca1f8b374400fbcd84",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/Pearson_分流域分析/01_各流域样本量.csv",
+    "bytes": 1031,
+    "sha256": "f98df10e314837d9f2d5aeea6867c67114aac0a65d73c3ba8e7952a645a4a49c",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/Pearson_分流域分析/02_总体及分流域相关系数.csv",
+    "bytes": 80738,
+    "sha256": "6b535ac63a06a6d3551a0a9ac1e08603dce034bf0f457889fa2d008c5546b4e4",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/Pearson_分流域分析/05_各变量分布与极值.csv",
+    "bytes": 12215,
+    "sha256": "7970ed3652a547cdd946913891b4a1591cfec80f8eee332b2a7e6c600e5bb846",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/Pearson_分流域分析/06_各流域绝对值最大的相关关系.csv",
+    "bytes": 2219,
+    "sha256": "2e962839b783c590df98009932ca61e1223e563de84f520ce84c1e628f3b6820",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/Pearson_分流域分析/分析摘要与校验.json",
+    "bytes": 11765,
+    "sha256": "9a5c3e4b27431823aea830a01de209b0b797b9b567a26453eacde6625de69d00",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/Pearson_分流域分析/分流域Pearson分析报告.md",
+    "bytes": 4162,
+    "sha256": "395784bc42424fa07ed3bac874c7776f1c3d8c8943ee38d8fd46482373cebdfc",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/已有结果总览_重新梳理.md",
+    "bytes": 7325,
+    "sha256": "4ec8c3f7ed3f9e66700cf49e7aa92ed3911db4509c1a170d01c02f8d1a886e51",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/数据集摘要与校验.json",
+    "bytes": 1257,
+    "sha256": "970eab91412a509274c0bed85b2f36391b8cd400ebb7bedb68373d2ea864d953",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/数据集说明.md",
+    "bytes": 3123,
+    "sha256": "d647fdba722398a5bbd76456e2c134fd1abe9e0094521ec94ce37d5c331ded48",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/来源文件清单与SHA256.csv",
+    "bytes": 49247,
+    "sha256": "c71f7ff13f9a362d93747941e5fae404118e25f4fa15f1c952f867d1d5444697",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/测5项估4项_时间留出预测基线/01_750站点各化学指标预测误差.csv",
+    "bytes": 1105447,
+    "sha256": "df2eb78a307c5748c0edcfb1a26641aacf5cfc29b84c37c6cfb163868ba3a586",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/测5项估4项_时间留出预测基线/03_时间划分与样本量.csv",
+    "bytes": 45846,
+    "sha256": "059a298dd48c156f6f1f91fad645e1df417e70394a8423b20a24e27cc30c8910",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/测5项估4项_时间留出预测基线/05_训练段滚动调参记录.csv",
+    "bytes": 3889822,
+    "sha256": "98a4968860eb8ae698c68ee3d2ff9e9bb619281762e590264b137fc2aec7faff",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/测5项估4项_时间留出预测基线/06_总体误差与R2分布.csv",
+    "bytes": 1179,
+    "sha256": "76115784d101be6885b50ca3cee11960059bfe42cb99697dae4083f7e3f878a6",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/测5项估4项_时间留出预测基线/07_分流域误差与R2分布.csv",
+    "bytes": 11674,
+    "sha256": "d649e8e5db68ec3667940ed87f44d5b2eefcaeb5d99f9beaceb31e900a3416c5",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/测5项估4项_时间留出预测基线/复现分析.py",
+    "bytes": 15536,
+    "sha256": "2c0b06cca6ac99e512d81cc3ab13931a40dd1ada70611ff9ccdb45b028041bad",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/测5项估4项_时间留出预测基线/实验摘要与校验.json",
+    "bytes": 4096,
+    "sha256": "ae124d77b11d7bfe356010e2407fd6ca9a87f35e0b9056f3cc08405634a714ba",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/测5项估4项_时间留出预测基线/预测基线报告.md",
+    "bytes": 4626,
+    "sha256": "a1f77c808f6739c6901613b3b806840aa98745488a91f6b37018bca3c0b77072",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/空间分层选站/01_406候选站点及空间核实表.csv",
+    "bytes": 114110,
+    "sha256": "2b34ebe8a324666db61f69c16979743c83ce9f8da7dd244831987456a01eeea7",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/空间分层选站/02_流域省份分层初选名单.csv",
+    "bytes": 25647,
+    "sha256": "91fdf30cd732f54c34fe5aa013a0e689b610b1c904be125bb100e6486d04e897",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/空间分层选站/03_流域省份分层覆盖.csv",
+    "bytes": 7188,
+    "sha256": "a059475b77bae7e43194892133d93463211a09df2af52a7c9f19711ed3d4b6bb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/空间分层选站/04_各大区覆盖检查.csv",
+    "bytes": 640,
+    "sha256": "487ca06ebcc1f93e9782a8bd2ca3624284637267d3ebbeedb3287c6fbfb67539",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/空间分层选站/05_省级覆盖空缺与原因.csv",
+    "bytes": 2510,
+    "sha256": "c78d70cbfc927ce1169f3d108c9090e5b90296feb44c7c20b073200ef937fa58",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/空间分层选站/06_数据集中有站点但无突出候选的流域省份层.csv",
+    "bytes": 63,
+    "sha256": "fc17db4b83063c5db35deb2d736543960271b36c92e519769724b8f6d05651eb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/空间分层选站/07_长江候选与初选及上下游核实表.csv",
+    "bytes": 34026,
+    "sha256": "cf98cc59c4fe0f5addcafea64174620d052cf05c87da306742eae0472275f107",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/空间分层选站/分层选站摘要.json",
+    "bytes": 2506,
+    "sha256": "d03c9de6998f405a69334cd6ab07e1d6e8640bc3cf731cd8221efce3f136cfdc",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/空间分层选站/空间分层选站说明.md",
+    "bytes": 3607,
+    "sha256": "f647cfa3867c22231f1af49bb41e9a9f591519f531b4ada7eb71971fbbcee9df",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2_LoRA水质24小时评估_20261109/01_逐站点误差.csv",
+    "bytes": 1199099,
+    "sha256": "2afdec5226ebd1798a281d004c63616ffb43e5af75706c7f78580328209c3470",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2_LoRA水质24小时评估_20261109/02_分指标结果.csv",
+    "bytes": 1542,
+    "sha256": "57a4d17ce1272196b5826e9b8b43d568426e00ed98f5cff3188d95aa043e5d14",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2_LoRA水质24小时评估_20261109/03_总体比较.csv",
+    "bytes": 210,
+    "sha256": "4d425a60d15bc2c4fc663d929e81e48dc5dfcdb11767144d7d3ec5dc14b31fe6",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2_LoRA水质24小时评估_20261109/04_逐站点改善.csv",
+    "bytes": 865961,
+    "sha256": "0f14db282409d1b939aa2a37dbd5d27765fa930527df168b35a94d8e38f87361",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2_LoRA水质24小时评估_20261109/results.py",
+    "bytes": 6724,
+    "sha256": "aae463c8d9b5a688b444b3f67da79a22a618fce0929750d146ba8fe9fdd1eb11",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2_LoRA水质24小时评估_20261109/run.py",
+    "bytes": 7720,
+    "sha256": "79b8083b2573f58586913a64d03de1739ab8e8918c80f57e8267d6dd16a44061",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2_LoRA水质24小时评估_20261109/实验报告.md",
+    "bytes": 3743,
+    "sha256": "7fe84410693e1f6fe7df1c25f4b4a4d79777dcedd135f9cea3cac49a78b48855",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2_LoRA水质24小时评估_20261109/核验.json",
+    "bytes": 540,
+    "sha256": "03ae13899b18862867e86edbcf59429c99be63521884847c20df5a4e4e1498e6",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2水质24小时评估_20261103/01_逐站点两条件四指标误差.csv",
+    "bytes": 1370426,
+    "sha256": "a9c5ca5b756a2961ca10a8d7f1b6def251d244a01357aef0e5c164aa05d0df88",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2水质24小时评估_20261103/03_总体R2及误差汇总.csv",
+    "bytes": 1074,
+    "sha256": "cbb85426280d2aa235368ee1efb47d11fc06f4577d909af2db773fd138be002c",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2水质24小时评估_20261103/04_加入未来易测值的逐站点收益.csv",
+    "bytes": 872730,
+    "sha256": "7fba08626f83ad37b9caac7cc4cd371e4cac6715e37a864c2a75cca6d1c8d40e",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2水质24小时评估_20261103/05_高R2站点去重统计.csv",
+    "bytes": 255,
+    "sha256": "00e87e88a55bce36a878d2074a81198af81d72cdfe698676f0865174f33c9a52",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2水质24小时评估_20261103/06_条件预测R2大于05的站点指标.csv",
+    "bytes": 70326,
+    "sha256": "9ea7807041f007e9d6900300bb5d9776d7dca53ac9192f9efe78b9a728ed717d",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2水质24小时评估_20261103/07_分流域条件预测汇总.csv",
+    "bytes": 3700,
+    "sha256": "722a261e4f1507cfa024fb0f673435ee882cdb99d1559db0ebc2c7416415822f",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2水质24小时评估_20261103/download.py",
+    "bytes": 981,
+    "sha256": "935faf1ba6002c5098eecc3c32415da4ba58a0cc3920b427b6756f55118116b3",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2水质24小时评估_20261103/download_ranges.py",
+    "bytes": 2551,
+    "sha256": "251471055fa29ed066aaa9d688c3add1f025d71fe86b7eb970bfa14a3bec5aa9",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2水质24小时评估_20261103/run.py",
+    "bytes": 4591,
+    "sha256": "8668a0fd3f7163cd19ceae2d09d7a0a31d1afc721399479b6ffdfbaca138ccaa",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2水质24小时评估_20261103/summarize.py",
+    "bytes": 10330,
+    "sha256": "d2595dc2b4e7edf1d5e94b2f729495b9bd8f4aeaf34a4b9d479bf2a7ad26a12e",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2水质24小时评估_20261103/下载SHA256核验.json",
+    "bytes": 335,
+    "sha256": "b4a6ca41e4a9c8e692a31ec244e942338b0bbf2972b1a43c62cec75c5007ca3b",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2水质24小时评估_20261103/官方下载清单.json",
+    "bytes": 384,
+    "sha256": "a78bd6e9045496a914c7a8e29406af01cf621d152a32c3c142753703a0db5a17",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2水质24小时评估_20261103/独立核验.json",
+    "bytes": 397,
+    "sha256": "faa0189d705bb494d3512b169bd1118124516b4d1312237140d896e45fd7bcd4",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2水质24小时评估_20261103/评估报告.md",
+    "bytes": 3550,
+    "sha256": "21561a490f642232aa997ad8caceb2c8ac548bcea2eb5c28414694a9de808c49",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2水质24小时评估_20261103/试跑输入核验.json",
+    "bytes": 831,
+    "sha256": "af2fee93d3eaf92fbcef62b42389ba4f3b240ea09ba6472ecfe4bb98c1c336cb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Chronos2水质24小时评估_20261103/输入隔离核验.json",
+    "bytes": 831,
+    "sha256": "135dfea8c5601b523894c57f78e2537f762031a81398353e92c32b5852cc7442",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "COSA官方源码水质评估_20261106/01_逐站点模型误差.csv",
+    "bytes": 2037706,
+    "sha256": "ee78c44c64d2c29b2eff189ba72edfe0fffd340d74edad691a484d17711d1bf9",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "COSA官方源码水质评估_20261106/02_逐指标汇总.csv",
+    "bytes": 2478,
+    "sha256": "3e4b09c073932d8aa014bcb80978a2ee0c6dd2ccc1a9d8088410fe1c0b09d7d5",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "COSA官方源码水质评估_20261106/03_总体比较.csv",
+    "bytes": 354,
+    "sha256": "b8acd3a446cac8e6e6c2d6b67052ff158c8d93712a056b9a84bf8c4d72519c22",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "COSA官方源码水质评估_20261106/04_逐站点校正收益.csv",
+    "bytes": 1768067,
+    "sha256": "78f4e81ef773b08f35cbae0420498d20e59dbc3fef930ac5218af19cffc4d826",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "COSA官方源码水质评估_20261106/05_逐指标改善站点统计.csv",
+    "bytes": 833,
+    "sha256": "218b5a04b651a411173ed30ea53a6f48b3761aa5eed0d3d3fb535194bf086730",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "COSA官方源码水质评估_20261106/native.py",
+    "bytes": 3001,
+    "sha256": "ce6dbb187fca5e6a8035f91a71dbf21860332a38e877de60b3cad251846f51f6",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "COSA官方源码水质评估_20261106/report.py",
+    "bytes": 6795,
+    "sha256": "a08718a8272b6fa5eb41de403d532f491f7191ea510dc88811ab42edc6da8274",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "COSA官方源码水质评估_20261106/run.py",
+    "bytes": 8348,
+    "sha256": "91a343298190d142da8d73748f4c4569720e5706abaa53dbde436606a47f6879",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "COSA官方源码水质评估_20261106/verify.py",
+    "bytes": 6540,
+    "sha256": "63f18b9de51950c44b213b52d72357181b7b6643977a3b89d50ab668fd822e29",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "COSA官方源码水质评估_20261106/完成记录.json",
+    "bytes": 167,
+    "sha256": "28bfd4ccbc0b4fe9ab547f9f80f793fed9584f4d67aefcf796e4a7a82b24d857",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "COSA官方源码水质评估_20261106/官方核心一致性核验.json",
+    "bytes": 652,
+    "sha256": "970b09abef3968e146437bf9e27ea604eedd036440e109894a6cd4b24eef07d1",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "COSA官方源码水质评估_20261106/实验报告.md",
+    "bytes": 9115,
+    "sha256": "47beb8a1953fb5ad69503899adfc4383e4127d9019f2746333c9366385d414b7",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "COSA官方源码水质评估_20261106/实验配置.json",
+    "bytes": 2009,
+    "sha256": "447f3eea01362cb0ea51511da6570eaccdb2c81ca5820c51989a25ec49b07a2c",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "COSA官方源码水质评估_20261106/独立核验.json",
+    "bytes": 2070,
+    "sha256": "d8e18edb50e3504827f545de75f7129ca07b1762ab5f2bb0bcaf3fd2c84582d6",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "COSA官方源码水质评估_20261106/逐站点在线适配记录.csv",
+    "bytes": 66183,
+    "sha256": "918c3302ef445572f1431bf7b18bfa955e73a682d1760296354f6a864acee309",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/01_新旧实现逐指标比较.csv",
+    "bytes": 3303,
+    "sha256": "acee5fd79462ac75d5a73225984bd3a7b9edac22aa5c97716a4173764c35dad0",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/02_新旧实现高R2站点比较.csv",
+    "bytes": 361,
+    "sha256": "dc65453ba827a6775b5f32c6bec5d50ab0e35104411ff2aa3f2d7f470a6365c2",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/03_逐站点新旧实现收益.csv",
+    "bytes": 793140,
+    "sha256": "2a82f3cb260669c1774990c24abf72563579bf232b3d8c93b1020ca85b32cf1e",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/adapter.py",
+    "bytes": 1168,
+    "sha256": "c72ab6993aa9e3646521a7e32efdd725e9d92e78c0ef3da76b1a2e9586a543b3",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/dag_native_layers.py",
+    "bytes": 1699,
+    "sha256": "64aa88ebdfd97007413f0897f6667822c081b06716d2284796d765b8cccd44a3",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/results_DLinear/01_逐站点两分支四目标误差.csv",
+    "bytes": 2046510,
+    "sha256": "68a37b58da906794fbf4fe9cdb7028a498a9c2d5e782264922beda19cdf81d68",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/results_DLinear/03_站点配对覆盖与不可评估原因.csv",
+    "bytes": 60070,
+    "sha256": "84366e88762ec3b124ba77c6b1b7f3c253d121f271e5ac062ab8db7854e92ecb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/results_DLinear/04_总体两分支与基线对比.csv",
+    "bytes": 2420,
+    "sha256": "82d5f4bd92e8e448aaccdf8ef855e91e0865636488632ecdefdbdc272f61a6de",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/results_DLinear/05_分流域两分支与基线对比.csv",
+    "bytes": 26856,
+    "sha256": "ef0f30a91b09bd5b51bfdc93c9a9fc9f7fa7d05b489337a3459e191e7dc5b225",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/results_DLinear/06_逐站点分支训练与时间记录.csv",
+    "bytes": 393001,
+    "sha256": "b9df7a88ffddbbd27d561de57fce05909579abca9c62f8cf86a3a04cc0792524",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/results_DLinear/config.json",
+    "bytes": 2757,
+    "sha256": "ce2c9b26da55ad4f854d964e9c0eb7215c240477a5f9e092deaf48d1d0064a28",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/results_DLinear/environment.json",
+    "bytes": 322,
+    "sha256": "b94d2c2cbc67e07d447970630e0ea12f8cec393e2487d448b8bf503bbab1fbbb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/results_DLinear/pairing_precheck.json",
+    "bytes": 568,
+    "sha256": "6b0079b5eb3f847c4fa8886940079f3c9c094afc344d16c03b142ec10245edab",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/results_DLinear/progress.json",
+    "bytes": 108,
+    "sha256": "ab9553d85f87ae9a213e231963a377b2d035b32f193adaeff8a097569b221fde",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/results_DLinear/summary.json",
+    "bytes": 7887,
+    "sha256": "3993ca15fc88cda0d832e162ad16dcf9c2e37797b65547b71f790f4b208badb5",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/results_DLinear/独立验证.json",
+    "bytes": 3140,
+    "sha256": "fe909076675c31cb5fb82bc74f7ba63cf4320f9f1cb91d7f7f626a467a18edc5",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/run_train.py",
+    "bytes": 23180,
+    "sha256": "00ef97d39b9afc9f5faba65a45b21fa5e524140d76ed57000c219169b60fb566",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/summarize.py",
+    "bytes": 5826,
+    "sha256": "c2e238c034fe0fa8552d1d5c18aee1077a0dcf51978c140949ca65a4a41412d7",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/vendor_DLinear.py",
+    "bytes": 4844,
+    "sha256": "1c4fb17c7b249c8e2ce79fb90b40202bbe05c6bc48b6d4f8100c40e8d5a2a175",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/verify.py",
+    "bytes": 10002,
+    "sha256": "0713ee2470a35e8a46cbadd9a79e71d955be3cac16363d198db3b23956078c7c",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/仓库一致性核验.json",
+    "bytes": 279,
+    "sha256": "80404902d4883ccb78bef976409087b2ae75be83cd5ba79beca2a15d31b49520",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/复评报告.md",
+    "bytes": 5029,
+    "sha256": "6f39a724b98d4730ffac0eb5884cfb2abe12fd812888e55c5b4eadc3c0056f17",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/比较核验.json",
+    "bytes": 302,
+    "sha256": "743e5e30451aedac5c487cc0309420268a979fa6ac6da5450491f68fe455817d",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/01_逐站点两模型两条件四指标误差.csv",
+    "bytes": 5119074,
+    "sha256": "4e284538c1813360a14fd66fb74781872c86fcc00384c2bb760edb6e7b9ec0ae",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/02_总体误差及R2汇总.csv",
+    "bytes": 2224,
+    "sha256": "0e2795b9069c3c7e57f1f2dc2e8ee79ae765ba3ad6f7c086cb5a110b12c825c1",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/03_加入未来易测值的逐站点收益.csv",
+    "bytes": 2955189,
+    "sha256": "8aa5333ed0e1c10a1d934d8b18880e4e81330ce2f94183acf0c8c1d0ec13cabd",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/04_高R2站点去重统计.csv",
+    "bytes": 435,
+    "sha256": "eed18545d551d0d38a10e944458c6c5642c139150a1fa26c9f05c8711f04e52f",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/05_R2大于05的条件预测站点指标.csv",
+    "bytes": 60101,
+    "sha256": "32ad7d23f379f9da6d81840e5d3ecf39f723ff968d27b249b028f2871f9d2320",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/06_分流域条件预测比较.csv",
+    "bytes": 9758,
+    "sha256": "5b3af04437aeb9bca091ca6b8a822decf3879e6a5af578612d396b37b2af21d4",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/07_全部模型及持久性逐指标比较.csv",
+    "bytes": 3666,
+    "sha256": "f7bc4f33f1ea23d538b3d301ca9dec28898f295a1a272af87dc81473f152446b",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/08_全部模型高R2站点比较.csv",
+    "bytes": 538,
+    "sha256": "d589b9adfbf079182e4b6ba704fbde538a6e3ff98b5e58f5dc69fec6b572b2fd",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/09_未来易测信息收益汇总.csv",
+    "bytes": 605,
+    "sha256": "f662c48f01d0d1c48ea6e6c370a662677e8b7a94d47210b3dae44987c689bae8",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/adapter.py",
+    "bytes": 2328,
+    "sha256": "0c99a4f0e2fa6b54e490a3f7860c4cd2118f61f0cf343fd6c47e3ca7a8d7dad7",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/build_verifier.py",
+    "bytes": 2420,
+    "sha256": "e06f80fd6b14825944f7ac071e8767f552bc73da5e89e6cec512fd582ab67d67",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/DAG批次隔离修正核验.json",
+    "bytes": 473,
+    "sha256": "224023d1dadbdab4ab8bf67c427300d61a232209e07f4599a66653893b60b2a0",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/merge_results.py",
+    "bytes": 2076,
+    "sha256": "fb29576ab8b617a90086971f9258dc690c7608ce7607a79edf0c27ed92ef6bb5",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/prepare_code.py",
+    "bytes": 6297,
+    "sha256": "a736d7eddfc34688656614d63e1d1d7d135568f123dec348699c888384c23e91",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DAG/01_逐站点两分支四目标误差.csv",
+    "bytes": 2042654,
+    "sha256": "ede7d86f95b3d61a838731566037dbaecc22d2b60fa48f19fe5ddc2c6abfbf75",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DAG/03_站点配对覆盖与不可评估原因.csv",
+    "bytes": 60070,
+    "sha256": "84366e88762ec3b124ba77c6b1b7f3c253d121f271e5ac062ab8db7854e92ecb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DAG/06_逐站点分支训练与时间记录.csv",
+    "bytes": 390806,
+    "sha256": "61ad10f5be0ae941dc2edfe2f761d865c8b7003bdb2c4b158267b688a984766c",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DAG/config.json",
+    "bytes": 2653,
+    "sha256": "b834d906e5bf5c8b3ff24d088787a09cb67bd0de97a9a5e1f3d5ce6449739312",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DAG/summary.json",
+    "bytes": 250,
+    "sha256": "a47b5a15c60dd38e6cbcedddebd8b30420a96767c9b0ff9e03cca7e9f3babe28",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DAG/合并核验.json",
+    "bytes": 34848,
+    "sha256": "c6b2338018f29d9aa5211cce247e60480167dcfe10e8e437d647f72ce4c40ed9",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DAG/独立验证.json",
+    "bytes": 3145,
+    "sha256": "48db964fc6e71f470b98e0707e429a998019af2d4e1e412faf3e5c70b1fdd1e7",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DLinear/01_逐站点两分支四目标误差.csv",
+    "bytes": 2048912,
+    "sha256": "a2c063c4f9fa8ed5795021c0d4e0ab55b6ecb9f1c06f153debfcfba3e0ef10ad",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DLinear/03_站点配对覆盖与不可评估原因.csv",
+    "bytes": 60070,
+    "sha256": "84366e88762ec3b124ba77c6b1b7f3c253d121f271e5ac062ab8db7854e92ecb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DLinear/04_总体两分支与基线对比.csv",
+    "bytes": 2401,
+    "sha256": "01459ab29c3f5e4069feb2b6e3ea69bbc254deb06b74993a68eedcfdde920ee3",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DLinear/05_分流域两分支与基线对比.csv",
+    "bytes": 26775,
+    "sha256": "743eaef33f3e804b4b4b09b8e82453c1bad48978e327c0417b509f70db356635",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DLinear/06_逐站点分支训练与时间记录.csv",
+    "bytes": 394282,
+    "sha256": "3c2e8c8208621c77597145eaf0e443734a7689bb4ec671d5a5ccfb374f9887d5",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DLinear/config.json",
+    "bytes": 2424,
+    "sha256": "dbde8ba476c0037402e93cdf7c515788facc1fcfe79a6d6d5eff474f9abae277",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DLinear/environment.json",
+    "bytes": 322,
+    "sha256": "b94d2c2cbc67e07d447970630e0ea12f8cec393e2487d448b8bf503bbab1fbbb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DLinear/pairing_precheck.json",
+    "bytes": 568,
+    "sha256": "eb6ee9e0096a3ac1982c5f224daf4cbfe4f2b2e93b620072190f94d3dd214e6a",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DLinear/progress.json",
+    "bytes": 108,
+    "sha256": "fc1edf6107337ad72d4bba87db17f87bd467f0f534a2efa3b684cbdd24210fdc",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DLinear/summary.json",
+    "bytes": 7854,
+    "sha256": "6db7ef4c65fa2e0903dc0f5b42bcfe32f141b9b903b0767f900976087629e4c2",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/results_DLinear/独立验证.json",
+    "bytes": 3143,
+    "sha256": "3408d62d4f627309a0a229086f8f259e4fdc90f8785cca837770d83325ed9cd3",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/run_train.py",
+    "bytes": 22874,
+    "sha256": "ea2e056b38ef6634abdbf311f408cafe0dd9a36648bf542f456695e074a79709",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/summarize.py",
+    "bytes": 12147,
+    "sha256": "9124bd4177cfe92b3b623180d115ae25c299a372313963aba78113532951ded9",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/vendor_dag/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/vendor_dag/layers/CC_EncDec.py",
+    "bytes": 7526,
+    "sha256": "41ca85cd4ec56647188cd98e1682f0f297d233237593fb717ba9001c824481af",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/vendor_dag/layers/Embed.py",
+    "bytes": 7756,
+    "sha256": "a116eb65f6f60cb2804c278958567f5b81298eb8f908f13f2959671771d5c761",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/vendor_dag/layers/masking.py",
+    "bytes": 868,
+    "sha256": "b8a0d5ff11fcd9cbd88d8cd41e0d67de63829b3e4c8b1c1797e8af5d04d46088",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/vendor_dag/layers/SelfAttention_Family.py",
+    "bytes": 12965,
+    "sha256": "58466fd1e1ff3142a2c26a5ad840129d7f05ae12da5c183cf2f199a61c79d8d1",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/vendor_dag/layers/TC_EncDec.py",
+    "bytes": 7330,
+    "sha256": "e0ae81259c25bfca8598e840920d1927eb1f8522b3e7d20965459cbdaad08b30",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/vendor_dag/layers/Transformer_EncDec.py",
+    "bytes": 5505,
+    "sha256": "211494d214d31beb1dacca0d5ac16d946bb2fbfdad84c3ebfb269bbeebe40cd0",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/vendor_dag/layers/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/vendor_dag/models/dag_model.py",
+    "bytes": 3281,
+    "sha256": "324f87b5184e5b97dbc404accf8fe30168fa1b688770433a56e93117ed7a8e71",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/vendor_dag/models/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/vendor_DLinear.py",
+    "bytes": 3748,
+    "sha256": "190859fc67db235cdd9c27c7590776f402b59e7b67804b52ee2757715f7fc9e3",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/verify.py",
+    "bytes": 10092,
+    "sha256": "328829dcfdbc1c51f62be47b7872b155b505e611242d51a1172aff68780148d8",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/verify_gate.py",
+    "bytes": 1774,
+    "sha256": "d5b74475f2bcc8d242ce1f7ba3f2c4c7633c9a3001e5b25a903b2d8e556c58ca",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/合并分析核验.json",
+    "bytes": 330,
+    "sha256": "acab0bc42e5832d04f9a04c14d7f6ea09c07c351898c6a538d8b6200c5ba0a00",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/评估报告.md",
+    "bytes": 8746,
+    "sha256": "bb96855daa3022d37922289e05c16a5f6dfde43594d4ffbcea415d4249eff03f",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DTW拓扑对照_20261109/DTW关联站点.csv",
+    "bytes": 698787,
+    "sha256": "d1716fcb9db2844b89b2f4aeea6222ed74be1a9fed5b7c478af7d3bf8d31b9d3",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DTW拓扑对照_20261109/graph.py",
+    "bytes": 4691,
+    "sha256": "1a8c99226784f900aae86e2d5e86cbc4a72110ca8bd67ae47219a4d7fc0264b2",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DTW拓扑对照_20261109/results.py",
+    "bytes": 6071,
+    "sha256": "d1afdb02c211527ce8d894199f14a4c67a28ff1d8f9025211299df6d84df3317",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DTW拓扑对照_20261109/run.py",
+    "bytes": 8078,
+    "sha256": "d1305f12bfa2cdee22f879407ab2eb3a788e9c36534cef66a2618abd875cf85c",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DTW拓扑对照_20261109/分指标比较.csv",
+    "bytes": 1406,
+    "sha256": "668bd3ef19f183014bcca64b4cba5ef1ee8e0c34b48204fab59c0da931008f71",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DTW拓扑对照_20261109/实验报告.md",
+    "bytes": 3537,
+    "sha256": "292d65de014821e167a80b0d85f768d0503cb6ce538ded2e170847f418cb4f7e",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DTW拓扑对照_20261109/建图记录.json",
+    "bytes": 212,
+    "sha256": "c8012272448ca821d2b0cfb15889c8d482ca16aea61aa61aa822c1b808a38d6b",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DTW拓扑对照_20261109/总体比较.csv",
+    "bytes": 207,
+    "sha256": "b7b44ce1e57970219efffb7b2f7872e09ccd563acad4bce109d41b9e311a57e1",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DTW拓扑对照_20261109/核验.json",
+    "bytes": 124,
+    "sha256": "3026bf4f46fd2f22052f7576672fa9d92b8a2e03a68ba105ad040d5f7a3a2687",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DTW拓扑对照_20261109/训练记录.json",
+    "bytes": 787,
+    "sha256": "5703b1b7bc8d5aab03d442b4f43f08d82497a6d682a444f14156ef1389fbf463",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DTW拓扑对照_20261109/逐站点误差.csv",
+    "bytes": 863232,
+    "sha256": "328e16469d95a4d601d855e6039cdfdd11c3469eb059d4b4865fbd73dd4a5717",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "GraphWaveNet拓扑对照_20261109/results.py",
+    "bytes": 6601,
+    "sha256": "6a85a1b1d7d3fc20359ce6721aa64db74d1b7fa8b14aa8f2bdd09e2eceed6f36",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "GraphWaveNet拓扑对照_20261109/run.py",
+    "bytes": 9322,
+    "sha256": "471b8183a278489fe413985ab7b99c24d8d6b9aeded238472fea535f0cca9257",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "GraphWaveNet拓扑对照_20261109/作者源码一致性.json",
+    "bytes": 341,
+    "sha256": "996a36786fe456596aafd271637b460340f6967c8f5e86685ee88d26891de2f9",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "GraphWaveNet拓扑对照_20261109/分指标比较.csv",
+    "bytes": 1453,
+    "sha256": "eee14b469d2f5a0c982cca3556645edb01bc5283d9d6fc16025d7a054effeec4",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "GraphWaveNet拓扑对照_20261109/实验报告.md",
+    "bytes": 3837,
+    "sha256": "6e0c91c92a5821ebcf7c1ed5d2eedf27180840773ecfd68e8005ab4032382682",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "GraphWaveNet拓扑对照_20261109/总体比较.csv",
+    "bytes": 219,
+    "sha256": "d9dec4752c30d3582b25b3929f5b7994236460e8f4db997251837039e33fa299",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "GraphWaveNet拓扑对照_20261109/核验.json",
+    "bytes": 599,
+    "sha256": "41c1fe82c49b86b3296c3dd2b6654c0ee7929c796b2389d6464db91b73829680",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "GraphWaveNet拓扑对照_20261109/训练记录.json",
+    "bytes": 2365,
+    "sha256": "3f16f08d8ef4d4afae66ee8dc4c5a5a97cf6755fd681b824461cab01b0a374bf",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "GraphWaveNet拓扑对照_20261109/逐站点误差.csv",
+    "bytes": 896071,
+    "sha256": "208835873edfc016f713275e60961098a2794765566a610f4634fcf6787fe833",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/01_逐站点两条件四指标误差.csv",
+    "bytes": 1760700,
+    "sha256": "e64e004ed9576a73994bfa44b379b3c24a83195e027052780641ba2bced50029",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/03_总体R2及误差汇总.csv",
+    "bytes": 1228,
+    "sha256": "077b7b7bb58c349bf599c2ccd3bc181f52e7a0603cf9fe7a8babe471c858ba26",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/04_加入未来易测值的逐站点收益.csv",
+    "bytes": 1067268,
+    "sha256": "c19869b3f8a1e908a03c494aea578519f009bcba3cda9daada1ccbdd7ffc69b1",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/05_高R2站点去重统计.csv",
+    "bytes": 256,
+    "sha256": "b1a7fa202a0d8ca6201849ff3d36f83a52746a0734f701091dfcfb4531b59129",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/06_条件预测R2大于05的站点指标.csv",
+    "bytes": 56602,
+    "sha256": "c82576ad289ff147e2ff41ad53b542db33d98d12d7eb4596ae2856701aa1efcf",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/07_分流域条件预测汇总.csv",
+    "bytes": 3688,
+    "sha256": "6e6b32fb58df2cc3c8cbd37c9b442e2e0454cc832c8a156889dd8c2a9c79fccb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/08_全部模型及持久性逐指标比较.csv",
+    "bytes": 2534,
+    "sha256": "394425b15d67d7e6578d299c35da70051cba812cf33133841295af688c282691",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/09_全部模型高R2站点比较.csv",
+    "bytes": 416,
+    "sha256": "361d04f1ea42a3e6c53a5d5d0206c6ac9ca15e6fe6fcef2f48f30a2661d09a0a",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/download.py",
+    "bytes": 2564,
+    "sha256": "34125804db84e184a2bfe735ccdba3e88cbc7c1bbb4e32cb64866858b1edcb83",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/inspect_remote.py",
+    "bytes": 751,
+    "sha256": "65cf023a47f4e035e2771bec4bc31eb1a1822b5af44ef334b1ffd52cfc8096fb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/model.json",
+    "bytes": 2721,
+    "sha256": "770c43b2371459ed4dbca2e5bf457cbaad5b9a80248850ee2100857842a3a7db",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/run.py",
+    "bytes": 6016,
+    "sha256": "0a2489f88062b05a7360c3d03697c4aeffa3836e0f4e34205c7cdce5488a49c2",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/summarize.py",
+    "bytes": 13115,
+    "sha256": "54a5819365b80840b77d6f539e1de7eabbb93d98155b90ccb9c8a8e94d0654fa",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/下载SHA256核验.json",
+    "bytes": 285,
+    "sha256": "faf1027ec39e05f363b468a6cfa3241e303e208e35d1666e212ddf81f97f8c9f",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/独立核验.json",
+    "bytes": 468,
+    "sha256": "bb7a7ececf7e8012587864e06668bd04b6dbb146923972ebc5a84ff59164dcd0",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/环境核验.json",
+    "bytes": 1060,
+    "sha256": "d9c645939488557025abe883be3d0115e23c718bf1dc350dcf0d7d47a9d6a66f",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/评估报告.md",
+    "bytes": 7123,
+    "sha256": "a5bdc500fc35076c234e8fc2d81f0a966bfc05c0df0fc82db6a1e4798472f765",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/试跑输入核验.json",
+    "bytes": 1180,
+    "sha256": "cf1aa0108cdad4481bad732ad8ae49673b095d5ced11b9b01cdc9f501f4a5ff3",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "TimesFM3水质24小时评估_20261104/输入隔离核验.json",
+    "bytes": 1182,
+    "sha256": "8e11c106a48333b6be42838ab3dc826bb9697f71bf68d708a657de2612f751b2",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/01_逐站点两条件四指标误差.csv",
+    "bytes": 1778789,
+    "sha256": "9732da06ea2c996b5cf3fc93ae636e06e65bb614eda483d6550618bae0534f3f",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/03_总体R2及误差汇总.csv",
+    "bytes": 1230,
+    "sha256": "f9d38a63602f4d6922a79e6d664e2873fc066841e0702e3608ee6d8399c74bac",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/04_加入未来易测值的逐站点收益.csv",
+    "bytes": 1078780,
+    "sha256": "e81ce6bd5d1b17d1c44d5f4f5bdcbea80ec034f76e80cbb82e19d14439ddabb1",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/05_高R2站点去重统计.csv",
+    "bytes": 256,
+    "sha256": "46533d61e019f2a14de56a771719f90265bbb7554c7f687fddb8722b771fd120",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/06_条件预测R2大于05的站点指标.csv",
+    "bytes": 83739,
+    "sha256": "8a31fd902e43aedc7898b2b84ad45427d0915778145e344759aa675609b9f990",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/07_分流域条件预测汇总.csv",
+    "bytes": 3709,
+    "sha256": "da693704c5137194d4862e5579b0920809e9e8711b25208d64b7f4d26930aa9b",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/08_全部模型及持久性逐指标比较.csv",
+    "bytes": 2889,
+    "sha256": "3a2801cd2b4c977f1d13e68a15c1b1ad066d8978b3bece7e79857b6176b8ea73",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/09_全部模型高R2站点比较.csv",
+    "bytes": 452,
+    "sha256": "280d4b498502454f68532a5e6f5efd496ba06e0f37ac6398af7e53356ecfee95",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/build_analysis.py",
+    "bytes": 4310,
+    "sha256": "c6306ae9d994a7f09983bd4ef13c3157c401d100496904a352893e77e8d21b16",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/download.py",
+    "bytes": 2594,
+    "sha256": "b51be514edc028a07a579cfe709ea45ceb4ba79989a56f12159f78a3853b8efb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/inspect_remote.py",
+    "bytes": 466,
+    "sha256": "0d42035dd07cf01ef37e130c5ca8eb5c1506a7ebf20875e48b0e14911421de7c",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/model.json",
+    "bytes": 7440,
+    "sha256": "07113539427ae16f08ee1f93bd4d5c95dac8aa0472abf6a22197ca97a9771579",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/run.py",
+    "bytes": 5736,
+    "sha256": "7688f83036a0612e4dc58209a46862ff79503520a7c8372740ace6c9e5248522",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/summarize.py",
+    "bytes": 13435,
+    "sha256": "599dd63a32f19f2ba6c7d7549c5852fd70dac40638fabc9f8193166f9d8173f8",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/下载SHA256核验.json",
+    "bytes": 282,
+    "sha256": "5b3ac3ebf28f0c074a12de71ac6dbaa822e8e91de40089fb7c31b50831a4d370",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/独立核验.json",
+    "bytes": 468,
+    "sha256": "bb7a7ececf7e8012587864e06668bd04b6dbb146923972ebc5a84ff59164dcd0",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/环境核验.json",
+    "bytes": 1070,
+    "sha256": "3b89986092b0214849ef13fe4d3747336eb65a3cf6254a834b9f537210489cf3",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/评估报告.md",
+    "bytes": 7522,
+    "sha256": "09522f1b7ba7b78b9099982e5abd815bd702fd4dbede1cb937b5eb3acca6b32c",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/试跑输入核验.json",
+    "bytes": 1174,
+    "sha256": "20599f261537e763296132060062e54513ab2e16e280b92719d63d2af4acef33",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "Timestral209M水质24小时评估_20261104/输入隔离核验.json",
+    "bytes": 1176,
+    "sha256": "9c21d249faae11d44ffb1328e58a40ff905920860335716560c563e39a154b61",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear水质24小时条件预测_20261102/adapter.py",
+    "bytes": 5298,
+    "sha256": "73146037459310226395db1c411383d46715df9a5f2af133ac9662f84b2c615e",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear水质24小时条件预测_20261102/analyze_r2_gains.py",
+    "bytes": 16176,
+    "sha256": "c5bf17505f8bee8f6f056bd0b88b2c8349e35b6e51da5dc0dcc86daa302b4dc0",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear水质24小时条件预测_20261102/make_report24.py",
+    "bytes": 10150,
+    "sha256": "61b604d0887d43e04fb8053c69b2b21d176ef22a9c2ab19c5744b466f0d28b36",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear水质24小时条件预测_20261102/preflight_alignment.py",
+    "bytes": 2520,
+    "sha256": "5aa13166d222f4ce319c4c29778f9159a3cc27c7a9c9b1daa5802412117104bf",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear水质24小时条件预测_20261102/README.md",
+    "bytes": 2233,
+    "sha256": "c7bb43f7d1af7e79d8a859c955ce8cfea4a7b4f782b7c78a55f2b837dc18153b",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear水质24小时条件预测_20261102/run_forecast24.py",
+    "bytes": 21803,
+    "sha256": "af490deaa0ddcfcc10ffd307c4872efcb018545577960fe4f3748c4f2504edce",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear水质24小时条件预测_20261102/verify_exact24.py",
+    "bytes": 9232,
+    "sha256": "22cb79ab9a2e5b780df7f8a4a3345aae8b09762e19098df02ea3f18cee7761fb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear水质24小时条件预测_20261102/verify_gain_analysis.py",
+    "bytes": 3766,
+    "sha256": "03c5c980a8861a9ab106a1eb91d068660bb1ebfd8f158c127ea549379ae9172e",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear水质24小时条件预测_20261102/实验口径.md",
+    "bytes": 4065,
+    "sha256": "1756eb37896b89ff2857934acc10b9056422cb8526a2f2eb125d013bb8a0e011",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear水质24小时条件预测_20261102/独立预检_24小时配对与覆盖.csv",
+    "bytes": 47901,
+    "sha256": "38e91d9170487dfacfc6b17c15784f12b16b3c3b9445efe9572ee365c54ce581",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear水质24小时条件预测_20261102/独立预检摘要.json",
+    "bytes": 543,
+    "sha256": "3eb2c3eefde1a0bc96e35e7f144b5f14ebed950dac83ba3b91174a13669f417f",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear水质软测量_20261102/adapter.py",
+    "bytes": 3337,
+    "sha256": "0afcab26db40cc03fadbeaeeb9239234b97ba4280c83ac954ad82b8a62fdb8ad",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear水质软测量_20261102/make_water_report.py",
+    "bytes": 18415,
+    "sha256": "bf7fcc6edd6c798f088f903fe64c10e57a71dddc848e8a734d9dafcc8b6aea48",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear水质软测量_20261102/README.md",
+    "bytes": 2596,
+    "sha256": "33eb80e56dc829fd8dcb1187f73dbacf0e35c2585aceb0b5a8890acb37fe3b82",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear水质软测量_20261102/run_water.py",
+    "bytes": 15397,
+    "sha256": "5e23c60741e790c0444e8c1fee652969ce58048cab066edbe68661b953816a7a",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear水质软测量_20261102/verify_water.py",
+    "bytes": 16006,
+    "sha256": "7f5486a82d9ac74eded88e5027c7a8b817502753e09ce332d1dae7e3ebe17db2",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear评估_20261102/calculate_r2.py",
+    "bytes": 4717,
+    "sha256": "0921f0f1eae1c6af84d159b0c3b7b5477f565869e436d253d24818dd2c7ed5c8",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear评估_20261102/environment.json",
+    "bytes": 909,
+    "sha256": "00fd0f0ddbcb07964dbeb8d041ef91d7bdfaf0953140cb8a378dbe6506cda022",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear评估_20261102/make_report.py",
+    "bytes": 6703,
+    "sha256": "4e77624f6d84d66d3fc2b794ea51b9e3e813bc6b9041f9ded854e5e0ee505efa",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear评估_20261102/paper_comparison.csv",
+    "bytes": 1978,
+    "sha256": "f8723d101dba11d475e5e60302d635469ebd203362dcff0116ea3719e8a6385b",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear评估_20261102/r2_per_variable.csv",
+    "bytes": 1988,
+    "sha256": "a3fc0e274318c9011b60067f04f0b10273ae30fe02241abe4daabe3878d55122",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear评估_20261102/r2_summary.csv",
+    "bytes": 806,
+    "sha256": "737b1aa309113fbbbd07ad22357d98acb914bf689ede3fc3a3af9494babe73f3",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear评估_20261102/R2评估报告.md",
+    "bytes": 2050,
+    "sha256": "4ae61bc3a00737fdf8c0b39478268be40cb4041921ca09e39c7e268a54c5dbd3",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear评估_20261102/run_benchmark.py",
+    "bytes": 6117,
+    "sha256": "79a574f75d6f8bbc8eb85fa0729f084949c9070c0a2b7783d710dbbdcbbdd78d",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear评估_20261102/summary.csv",
+    "bytes": 1330,
+    "sha256": "ae57ac370aae26e2b18d77683aa1322553cff3f49c4f1561bda850be40a1ff40",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear评估_20261102/verification.json",
+    "bytes": 1419,
+    "sha256": "d12d4461c7144c288ce54f4d3e854633c1e483a80ed9e15031b2a849812ad8ea",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear评估_20261102/论文结果对比.md",
+    "bytes": 1415,
+    "sha256": "ffa95da5d3dfd79eea4f0f8c0c1a15417aaa09eca69e1aefc7e8602f4cef364a",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "XLinear评估_20261102/评估报告.md",
+    "bytes": 5900,
+    "sha256": "2fb0c63c941fffab6d266e4475f87e167e81297be5558fa41b060644fc50dbca",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "三图联合预测_20261110/analyze.py",
+    "bytes": 5291,
+    "sha256": "0081be6111a11224c26c98bb460dc3fc42abbe3fe1ad58bf48ae5681d677a5b1",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "三图联合预测_20261110/results.py",
+    "bytes": 5492,
+    "sha256": "fec9873be595079efd59e5619586cf2d63308df0ca6be12374d0819c3587f971",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "三图联合预测_20261110/run.py",
+    "bytes": 9482,
+    "sha256": "866ed95acc67e38c3acf811f961e44ad68b4d6bdf8d7c1e39aad679a5d18a650",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "三图联合预测_20261110/分指标比较.csv",
+    "bytes": 1454,
+    "sha256": "c67f892b3161bd2ad04109411d0ffbf9c8e5296f09af9fd33c49b97e3e553a4f",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "三图联合预测_20261110/原因分析.md",
+    "bytes": 7180,
+    "sha256": "137526cdd58d6a5510c25f33559b333b6a7dcfcb6baf52b7206481a87158780b",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "三图联合预测_20261110/原因诊断.json",
+    "bytes": 2697,
+    "sha256": "197b8dd2cf2a3d68041d390695ca3a508d16b9121ef4a4facf268150062dcf8a",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "三图联合预测_20261110/实验报告.md",
+    "bytes": 2664,
+    "sha256": "30f3c1e46be839d0214522dc22e23afbd611984c5a188587c9c12a10912901f0",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "三图联合预测_20261110/总体比较.csv",
+    "bytes": 220,
+    "sha256": "cf81845c591e38096d5413e0830073218022989f465db3896e8cf58b39431c03",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "三图联合预测_20261110/核验.json",
+    "bytes": 213,
+    "sha256": "d42d31a34e86ea366bba9c43973b7a705cff3fe193ed309c6eeaa9ae11c9626a",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "三图联合预测_20261110/相对两图逐站点收益.csv",
+    "bytes": 655132,
+    "sha256": "1592d9ace15000e4be28a51bff8df3e89130703bf7d1d41c5f8367c858e79442",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "三图联合预测_20261110/训练记录.json",
+    "bytes": 784,
+    "sha256": "7890cab139dace5eca4e16c9bc53fffa8f9dfd33229b6fd43ad4e7e3df45a54d",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "三图联合预测_20261110/诊断_分指标与覆盖.csv",
+    "bytes": 1751,
+    "sha256": "0abd702d860e381fe739a5ebe1b41659a41db71f75d59c475fa175966ef5aba5",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "三图联合预测_20261110/逐站点误差.csv",
+    "bytes": 899251,
+    "sha256": "0180963d82c9f80ba20d3240dae7a46aae9ec0c64add1fcb498335845a2c062d",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "全站拓扑联合预测_20261109/results.py",
+    "bytes": 5076,
+    "sha256": "e26ad774d32674cd65937f008ead37ce4313b8b0cf0e10b58f846363138cf66f",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "全站拓扑联合预测_20261109/run.py",
+    "bytes": 7345,
+    "sha256": "3751f9b01ff11be1ecf8961b07dec2e6505e1f0377b6904b2679fc878102c473",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "全站拓扑联合预测_20261109/分指标比较.csv",
+    "bytes": 1424,
+    "sha256": "bd7305c0c5b605db83f8988869c946207ef25dc5123740f56734eb8e3c719e88",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "全站拓扑联合预测_20261109/实验报告.md",
+    "bytes": 3223,
+    "sha256": "26ac0514aabc9f7527bf5d3957a388e1a8d76b436281fc943e0491de809f2364",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "全站拓扑联合预测_20261109/总体比较.csv",
+    "bytes": 209,
+    "sha256": "78f179f1172a96e4b435f88d52c8ccdae798198d5f7836562ea101c8e10bdc6e",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "全站拓扑联合预测_20261109/联合结构核验.json",
+    "bytes": 235,
+    "sha256": "f4d7598d6e3fd950c6f0e765031da6abafb1b0128cdb6165730ad2e3fda03d5e",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "全站拓扑联合预测_20261109/训练记录.json",
+    "bytes": 3786,
+    "sha256": "666567487005c1a4f4e4732d184c03b2ad9380acb9db256c6ceb4dd6c69c1b06",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "全站拓扑联合预测_20261109/逐站点误差.csv",
+    "bytes": 897622,
+    "sha256": "9d1bf519321c107adaece5db80d5b30101b716e65180295f081a08bdabffe193",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "冻结预训练模型校正头基线_20261106/01_逐站点模型误差.csv",
+    "bytes": 3212146,
+    "sha256": "d0ceb6b48e56eb7b17bf482d12ccedfce6e5e1c10032af313363a6d9c46a4602",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "冻结预训练模型校正头基线_20261106/02_逐指标汇总.csv",
+    "bytes": 3801,
+    "sha256": "eb88b6327b0c1dc8d3dea986d475dfd4e9188c2283a627bd604d0600891eafda",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "冻结预训练模型校正头基线_20261106/03_高R2站点统计.csv",
+    "bytes": 493,
+    "sha256": "cd04a50954b6961da306286ccd49531d8b42b4277c4805896199ac3811418416",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "冻结预训练模型校正头基线_20261106/04_校正相对原模型逐站点收益.csv",
+    "bytes": 3777622,
+    "sha256": "371f4eecf71d95ce1249bfaa28f7f1af20248dead64bda51cc9a002a8e906101",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "冻结预训练模型校正头基线_20261106/05_分流域汇总.csv",
+    "bytes": 44431,
+    "sha256": "2c1371b117e3087a1a871498526b7ba2ef5fad6b030ab78241cf6edcd9160ba0",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "冻结预训练模型校正头基线_20261106/06_总体比较.csv",
+    "bytes": 638,
+    "sha256": "70963c0cf9507f11df3f605f30966e363bc01711e1d6dae25696706ca9ca6bcb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "冻结预训练模型校正头基线_20261106/07_逐指标改善站点统计.csv",
+    "bytes": 1334,
+    "sha256": "db9d3564fd8b25481ca1c73862c70450c01efc901643409e337c6e03a6505bb5",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "冻结预训练模型校正头基线_20261106/08_氨氮极端误差核对.csv",
+    "bytes": 1320,
+    "sha256": "0d6f68b87babf880134f1e44aa7585ce05e35cd83f502bd878da96017ec485ae",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "冻结预训练模型校正头基线_20261106/heads.py",
+    "bytes": 8074,
+    "sha256": "228154fa0b395158f62e7aadab7c6dddc13941536e74678da665da6f79b4add5",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "冻结预训练模型校正头基线_20261106/infer.py",
+    "bytes": 3379,
+    "sha256": "2e740ffaa9d52446ea4d393f9a3a1760f84c8ac389b00634b7d3bdd23608c4a7",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "冻结预训练模型校正头基线_20261106/prepare.py",
+    "bytes": 3293,
+    "sha256": "b1e9c7e377f1cab162a41666ca60a50c8f621f79854bcfdc049912a444dd6999",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "冻结预训练模型校正头基线_20261106/report.py",
+    "bytes": 8739,
+    "sha256": "94307f9fd1dc478d162db2cf4e8484d2a24731b07ba360798e1c0af26f662792",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "冻结预训练模型校正头基线_20261106/verify.py",
+    "bytes": 6893,
+    "sha256": "f5affaf86574b9d06278347e02287edc35b015b1e6f8a15718b1be24550783dc",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "冻结预训练模型校正头基线_20261106/实验报告.md",
+    "bytes": 13066,
+    "sha256": "cf89fd8089074b3ec296bea90775ef0e5aac1456d927654fd8e8a05ca705f081",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "冻结预训练模型校正头基线_20261106/独立核验.json",
+    "bytes": 1503,
+    "sha256": "a294c59206cb4a08eb1a359bb1410956065e45c6e39a0dc60e0162af08c93057",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "冻结预训练模型校正头基线_20261106/配对核验.json",
+    "bytes": 439,
+    "sha256": "58875d700cacd11737ba06c51743b8eaa44174e04472d782c08d27c9350df6f0",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/01_逐文件检查总表.csv",
+    "bytes": 1973375,
+    "sha256": "198e1a4f78eac603ef11c90ff69caf7551b7fd5677da58f17f3d243ecbb8d42a",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/04_逐月完整性统计.csv",
+    "bytes": 3346,
+    "sha256": "556e1249173497e6776450f2691a6ead1730d73b7557230bc554c13b3b088663",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/05_同刻冲突分卷索引.csv",
+    "bytes": 182,
+    "sha256": "d88cd92969993ac22098944aa5d7764863e582091a33ce5390d5816f6e57bc25",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/06_采集文件时间间隔.csv",
+    "bytes": 30160,
+    "sha256": "9a1aea03b6d4de50f2f42e4f9a72269b0efe43ef41873df784e22ec313afad43",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/07_断面覆盖统计.csv",
+    "bytes": 343381,
+    "sha256": "096231626c980e9e5cd508570b53ef8644238c3fdfb521e153ae4a94a89caed8",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/08_数值字段概况.csv",
+    "bytes": 912,
+    "sha256": "ca5da2e4641268d5780e37ce3f44983e81aa3c0422e3a7cec610ce0720cafc55",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/09_类别与站点状态.csv",
+    "bytes": 323,
+    "sha256": "7d98442a2ff527075e33140c192967debb58dd8ae33d64b252cae70423b04659",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/10_核心字段齐全文件清单.csv",
+    "bytes": 12393,
+    "sha256": "4c74039c2e8a2c19f8f6f875c5f7daa2cde4f2008404c49756652ef6fe955488",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/11_逐站点可用性与完整性.csv",
+    "bytes": 333262,
+    "sha256": "75d810ae377311e6d292190e4313e2a194558b29a2f8cbb298598ba6ff0ae9dd",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/12_有无冲突可用观测的站点.csv",
+    "bytes": 326128,
+    "sha256": "b00056a8af74348cea733c490eac688bc8880db68291ed57f92a7ae008c3487f",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/13_所有已有记录字段完整的站点.csv",
+    "bytes": 593,
+    "sha256": "4b38230b4fc8f45b265b313f67cc7234845b0355026aa298ea9c360fd4ac04d9",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/14_站点24小时连续性筛选.csv",
+    "bytes": 209682,
+    "sha256": "4473d9eb7c36801a3c0069219c2e6fc2688a52080cbcdfc510ef79246ffcf796",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/15_覆盖25个月且最长间断最短的站点.csv",
+    "bytes": 46141,
+    "sha256": "4ee069268d60dc0d2e45e26472227f6211719b0a7ed255026d14b51e962b1797",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/16_整批采集文件超过24小时间断.csv",
+    "bytes": 6359,
+    "sha256": "589b130b322d9fdd048b64578487271e4352268a4243f6bbd7733888700a5b38",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/17_代表站点超过24小时间断明细.csv",
+    "bytes": 6540,
+    "sha256": "281e0b2b1d13656222c1e6dab813fe6007db5c1a3334e33764ad60c4749706dc",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/可用性筛选摘要.json",
+    "bytes": 451,
+    "sha256": "aa8fc1f07eb8a28543dba19ed6ee2d975064a9ba20ca44842f1804b1bc5e0f60",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/当前可用性筛选口径.md",
+    "bytes": 450,
+    "sha256": "bc078d087ba804bad81be4d0c8b31fcaa649215cb9ef0377c909cff9bbea12d3",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/时间覆盖与间断汇总.json",
+    "bytes": 4159,
+    "sha256": "a32c2f066fa7f67035621041f4c2ec48b5452399a613455bfda135614e1a3ca4",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/时间覆盖与间断汇总.md",
+    "bytes": 7133,
+    "sha256": "29408f670b2d9484f7dbb4c5fccc44637df23ce1c0ace267cb37fa24c031695f",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/校验结果.json",
+    "bytes": 293,
+    "sha256": "f383280ad2c782bd4035ff78eba2f1bb022464fca408e19f85eb44d8dcdef92b",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/检查报告.md",
+    "bytes": 6937,
+    "sha256": "078a5fcfc335152692c61d19dd6991f43abe0b0b6c042a112969bdf54b01f83f",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/检查摘要.json",
+    "bytes": 1024,
+    "sha256": "a6813d02ac47c2c6105b7c1bec7fea3f246c37a36416f163b8339eaf278f5dfb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/站点可用性统计摘要.json",
+    "bytes": 636,
+    "sha256": "ddb419ed2f40d26be0e423da176dafdb5b665ba60bbebd9cb97b150a1f72c993",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/站点可用性说明.md",
+    "bytes": 2215,
+    "sha256": "1e2295e9ea1530aaa0bbe3af493e4ffaca8c38fced715ee05929250088174715",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/连续区段筛选/01_共同连续区段方案对比.csv",
+    "bytes": 1488,
+    "sha256": "46c7885a110588c330296e1eac96e676e31d05bf022ae01f3baecd5a4774a438",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/连续区段筛选/02_各方案站点名单.csv",
+    "bytes": 1638130,
+    "sha256": "0d47ae89bb216ad7ad0a33b637e0f8388784691c19b2df540a056e5c87268fef",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/连续区段筛选/04_时长与最多站点数对照.csv",
+    "bytes": 2837,
+    "sha256": "a63710af1d6a13b273eaf028964f9f36c7b3735799ba01f41b642bdfcac87e05",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/连续区段筛选/共同连续区段筛选报告.md",
+    "bytes": 3795,
+    "sha256": "f2cf612bdef60050b2d1fb90c43218bc705582663cd8bd2d0c7c4d2fda7150b2",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/连续区段筛选/站点序号对应表.csv",
+    "bytes": 79894,
+    "sha256": "f5796fcaea54f91f9200253e0bfd0aa0fd06f99744fc8bf5408aa16f12560503",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "数据整理与质量检查/连续区段筛选/计算摘要.json",
+    "bytes": 4701,
+    "sha256": "8091454bdfd62c3cfaac8f9bb9dbfc41a5d303657ac004e898d189b04a5858d4",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "无邻站同结构对照_20261110/make_runner.py",
+    "bytes": 3614,
+    "sha256": "c548e9fd3e00fe5d2e86696342ce78ed8c6c48c741c704fbb29796f7ee2822ce",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "无邻站同结构对照_20261110/results.py",
+    "bytes": 11133,
+    "sha256": "1e896d2f131686117fd81d24aa0e32869115ecad3408fdf018badc771958392d",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "无邻站同结构对照_20261110/run.py",
+    "bytes": 11809,
+    "sha256": "5e90162cb8a7e2e3322e407a2d8ffa4928164dcad505b47980907b986413e242",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "无邻站同结构对照_20261110/分指标比较.csv",
+    "bytes": 3986,
+    "sha256": "15457a0ac88ae437956975800ccbe9ab0579ed1c3d06406196ec239221ca2278",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "无邻站同结构对照_20261110/分项贡献比较.csv",
+    "bytes": 2398,
+    "sha256": "1cf7f0b5d94d0c1664772b75adc1cef9fcd2b646c8b7042b98a447084dc6bcbe",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "无邻站同结构对照_20261110/实验报告.md",
+    "bytes": 10146,
+    "sha256": "9ba7f2c18867c5533dc897e28da222d52ff0f9dc7d4fb0d56290ce54aebf6725",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "无邻站同结构对照_20261110/总体比较.csv",
+    "bytes": 432,
+    "sha256": "72af66369fc2b4996b50fba8e9cfc009c9e3bfdc7fc14d6931b713b43eda90cc",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "无邻站同结构对照_20261110/核验.json",
+    "bytes": 595,
+    "sha256": "4119373a6b272cbb46453f6093573441a28510e62f905ba3bd031655c1d04209",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "无邻站同结构对照_20261110/训练记录.json",
+    "bytes": 2196,
+    "sha256": "d66cb4896b0014a4866796e736c9d6688ba539182bf479a1c22db3f407b68c02",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "无邻站同结构对照_20261110/贡献汇总.csv",
+    "bytes": 484,
+    "sha256": "42751a4ab38f812dbf5a149f3b23481e6c6adf39b967cb31732122730865e60e",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "无邻站同结构对照_20261110/逐站点误差.csv",
+    "bytes": 2249838,
+    "sha256": "eb8e1078b138b289db44d9c5311feabb5a5ae21ed10edf125b195c892363ab7b",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "无邻站同结构对照_20261110/逐站点配对收益.csv",
+    "bytes": 3788214,
+    "sha256": "6fcb3de503c382a60175825e25488894059693a811e064a5bb36e8a71aa38862",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/audit.py",
+    "bytes": 4257,
+    "sha256": "aec1c92ac27f57973ace4f947b8ed0049c3ee81d1d7293ae488d063fb18d87d5",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/build_lags.py",
+    "bytes": 5907,
+    "sha256": "36e0911f7c59b2c39ca7f23e9728f829ab630008568b34c773218dc577768825",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/final_时滞选择.csv",
+    "bytes": 1091422,
+    "sha256": "38dec18f6e7a030100f86b7ea60927cb7230bc6cf71dbc782b9b4c864010073a",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/results.py",
+    "bytes": 12108,
+    "sha256": "a18ab70223642edccd0e78b2d4cf7c5e87fa40747c6f8aa11eb076054e06aae8",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/run.py",
+    "bytes": 7895,
+    "sha256": "89b8e3c837ae7bced8b3301352c7f1de2330de1db56f1e333a9aa2e49de2f041",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/selection_时滞选择.csv",
+    "bytes": 1134926,
+    "sha256": "f818b78dea22b4beb5b2827b498c9822f85e1a17f16bdfb42c51c252ae15991e",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/内部时间验证_关系稳定性.csv",
+    "bytes": 403640,
+    "sha256": "d65bbc725b44b05ce725d3e74e425ee2ca132487aa322bb1096e17287b94d429",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/分指标时滞收益.csv",
+    "bytes": 462,
+    "sha256": "542b2b12f6f58857358a39b25b156c6ac8a1585a32b587dc54b670cf5a3c56e8",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/分指标比较.csv",
+    "bytes": 1695,
+    "sha256": "99606e791fc58d22870feac1110aabe22e5879b1df3b8f944e1a85fe6162d999",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/分指标滞后分布.csv",
+    "bytes": 501,
+    "sha256": "b1d86d150805e1e6842f6c1e128b987f420c75b955fa1e62073d8954a96d69b5",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/实验报告.md",
+    "bytes": 8795,
+    "sha256": "55f78b02d5cb0c4723eb36dbaffef7308e77f70727d16774471b8dbf78ad31e0",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/实验核验.json",
+    "bytes": 1023,
+    "sha256": "ee5daaf12a5cc3421aa96ab125cca115a5c96b0fd8a69d3b2ae44fc3004d3c5b",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/总体比较.csv",
+    "bytes": 218,
+    "sha256": "8291bf5baf54cd720497e4a637e70db69fa7214107a93bc7ba1ddca5288a58dc",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/时滞建图记录.json",
+    "bytes": 1066,
+    "sha256": "c1cb97c16404c7b20e6f70e0d44758e672f73ff6f9751c872dc24e846cdb6ac7",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/时滞独立核验.json",
+    "bytes": 340,
+    "sha256": "89fe5bce85ba9665cbea904612a8d5d46dcafd3bd4be34202e928fada7055961",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/时滞相对当前逐站收益.csv",
+    "bytes": 681856,
+    "sha256": "7afba638f1163e63a952eb790176877013d25f236bd16bd5bdc7fa2658052f94",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/训练记录.json",
+    "bytes": 2687,
+    "sha256": "e51604baf79a7e6ec686b6b1c0ee6436e6ca36162620e73e8601a6048be831d6",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/逐站点误差.csv",
+    "bytes": 923636,
+    "sha256": "181c733328e2a0824e8e9df6a913d21eb609cec5392f78f0bf4016f576997756",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "水质跨站预测_20261109/01_逐站点误差.csv",
+    "bytes": 1493122,
+    "sha256": "fe0ba01177989e728e7436b8d6f81e0d6d18fbdfa0faf484d2dcdf2ef14145de",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "水质跨站预测_20261109/02_分指标结果.csv",
+    "bytes": 1800,
+    "sha256": "1089f7ff872874d99dc8fd077e5c64d6aabc4af97e28633cf607dbaca3af469a",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "水质跨站预测_20261109/03_总体比较.csv",
+    "bytes": 254,
+    "sha256": "e7d9495ba566b2ac02141ed80ad0c691c982348b9c0741bf251d044d3d6ed1dc",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "水质跨站预测_20261109/04_逐站点邻站收益.csv",
+    "bytes": 1567364,
+    "sha256": "7d20f5d0d4ae807f7ebc86692b49f890c6a44d36b1d8446f3cfe0488da87d89e",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "水质跨站预测_20261109/05_逐指标改善站点.csv",
+    "bytes": 651,
+    "sha256": "5ca0cb085122a9d4d819b55d9a0454e08a180edce2d512daa06caa3a2a7110a8",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "水质跨站预测_20261109/06_分流域邻站收益.csv",
+    "bytes": 10004,
+    "sha256": "2d350531c16293297f6c9e45804daf88d5ec18ee4741759c358c390c6064f8d1",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "水质跨站预测_20261109/audit.py",
+    "bytes": 3043,
+    "sha256": "003a1fdff8c6e1a192d48d6e3ed1c78c54beff2ce5f5807a61bb2b65117817b8",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "水质跨站预测_20261109/final_关联站点.csv",
+    "bytes": 869775,
+    "sha256": "2bdf08d6fcaf3a70469f6015ba789ad5d7865047b40a6760ae457277355cf2bd",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "水质跨站预测_20261109/graph.py",
+    "bytes": 4542,
+    "sha256": "38c1e98ebbc77ffd8e07c21472e6a6eecbf17bb9e57124ecf918e79cd6e4d180",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "水质跨站预测_20261109/results.py",
+    "bytes": 8169,
+    "sha256": "cae6238f6b61173e5e3b694aae3c5097f01268c29b371ac270546295f41d5672",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "水质跨站预测_20261109/run.py",
+    "bytes": 5569,
+    "sha256": "a46728b63a402f15ebbc900530fb2ecf1f443e7caf6c264f600c114ac0469db6",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "水质跨站预测_20261109/selection_关联站点.csv",
+    "bytes": 943644,
+    "sha256": "e98f453338ebd7ab554bce2452efa617554a6e60464e80fae1e7ee437fa0efa4",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "水质跨站预测_20261109/图覆盖.json",
+    "bytes": 467,
+    "sha256": "6bec58bf2290cde5430983722f0ab10c652c6e6e353f028da73a18754df61fe6",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "水质跨站预测_20261109/实验报告.md",
+    "bytes": 5773,
+    "sha256": "0ea024a83c25b6b4e66a33451a6485ccbb6881b9bdcaadfcfcb23ebde6849bdf",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "水质跨站预测_20261109/训练核验.json",
+    "bytes": 225,
+    "sha256": "77b5d541730893fb79767aaa5c0b88d4cc9977dd98528b24f83c3a9f5c690ba8",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "水质跨站预测_20261109/邻站输入独立核验.json",
+    "bytes": 461,
+    "sha256": "559cbb7e9ef0c4f2537eb40ecb0a2c19a34aa51a377368d87c13b93092d37ddc",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/audit.py",
+    "bytes": 4270,
+    "sha256": "3188ecef9d3fce84e6acc45ffe4ae02641620039e33587e35daa24e2bd9385e6",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/build_river.py",
+    "bytes": 9375,
+    "sha256": "dca517546d8ec82a808b031fbc8b301b611c0b5957bdb92de7fffa0e264e46d7",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/make_runner.py",
+    "bytes": 1605,
+    "sha256": "8aa77074987d01a1caa0a7e62d24d53b73ea46725b4049c55d8380fcc17ccfd5",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/results.py",
+    "bytes": 10529,
+    "sha256": "fc293ad4a68ca9816abc1af9b7e4ab6e07ccb9cb5e5ddc529fc0c7f5c5a0dbb5",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/run.py",
+    "bytes": 10070,
+    "sha256": "321f26dc006c978bb62a80aacd65be6b5a98ec8fcd6d4a2e5f4b63e78bb10a20",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/分指标比较.csv",
+    "bytes": 1627,
+    "sha256": "049fe9d72205c01c765310039f32a51414ab48c7611d46b6fc032b38c70501f9",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/实验报告.md",
+    "bytes": 7823,
+    "sha256": "5a93d7146519a27978cef69765f7cfcea6c684202aa6d06f8a2f8a6c75e51652",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/实验核验.json",
+    "bytes": 756,
+    "sha256": "6b1a9c138ba7c6eb322bd042f757bbe68182dec5dc62bda02b4a51ea94870259",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/建图记录.json",
+    "bytes": 1014,
+    "sha256": "3ab62deb5e0412c101e8fa3724147b4f453f7b9ffd78281c9150a22f6c5c688f",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/总体比较.csv",
+    "bytes": 277,
+    "sha256": "ac8e4bb93de93c8d028ecb5137d00373d49237ee170fdfa0548d3f5500d2384d",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/河段匹配候选.csv",
+    "bytes": 101014,
+    "sha256": "1c91b23a0fbf30a7469510ecedb939b1b772258eb4e75a4a099f9d265954e592",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/河网关联站点_保守.csv",
+    "bytes": 179,
+    "sha256": "638b6ce0a43473ed31ca58d0fa1b1a8384e8d45efc0cf6d0a4508961dc08e589",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/河网关联站点_探索.csv",
+    "bytes": 3297,
+    "sha256": "f887dfc31c688bb829e90286a39df65c991538d8debcaa9ae1a865741df3e418",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/河网核验.json",
+    "bytes": 493,
+    "sha256": "8426ced53ea489499dcee1d413fc4da2dba2cfa134b7356d4876b7e51ddadbd3",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/河网覆盖子集比较.csv",
+    "bytes": 519,
+    "sha256": "11b7a2c4e0871cfae38f278d6d7174985a40190b73ed2b8366173c5a13738902",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/相对单位对照逐站收益.csv",
+    "bytes": 698246,
+    "sha256": "0541207d7cc3ad5f3400f0184183258f3f9e3c23975fb6bad8b7132b76a3f4f9",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/站点河段匹配.csv",
+    "bytes": 156782,
+    "sha256": "07cbd61fd6ffe4a3401ef913e35744cf71a0cfcd2df22f1238e2c5f9dcfc3dbc",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/训练记录.json",
+    "bytes": 1817,
+    "sha256": "b0ffba286ef2d5b909a36cb4223033e72d70ddf9112a67e0f01afcfa8dfb706b",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/逐站点误差.csv",
+    "bytes": 1267113,
+    "sha256": "01e3dae2e65f6835f81789e4c907e0940943012c063d5aad20d359849ab19c49",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/逐连接独立核验.csv",
+    "bytes": 9369,
+    "sha256": "b0a03ce2a3a8c534027925b65cc8559ea4f0604f8c65d9867df8c7f8596f3120",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "相关文献_20261110/Zhang2026_源码核查/check.py",
+    "bytes": 2614,
+    "sha256": "67577c02368839325cd52ddba2b6f59fbdcd557a1af900a63573f968e5548c28",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "相关文献_20261110/Zhang2026_源码核查/作者关系可同名映射候选.csv",
+    "bytes": 215,
+    "sha256": "545c6077e82cac8df2132246dd7957f151e14232e4d2f3882cf02ed0933475ca",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "相关文献_20261110/Zhang2026_源码核查/作者站点与本地同名核对.csv",
+    "bytes": 1766,
+    "sha256": "2e9361b9e21c24a0b3c4ea4be805f262ba33dabacfdae9769380a94fdc95eb40",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "相关文献_20261110/Zhang2026_源码核查/小例核验.json",
+    "bytes": 754,
+    "sha256": "2da173740ab78a97de65385db2db507ab0980e701953ed1b2d3f632dc583cc24",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "相关文献_20261110/Zhang2026_源码核查/方法解读与代码核查.md",
+    "bytes": 10664,
+    "sha256": "f5c8f59ad7b6e7d697700fc544b3f79e204d54fc6e2a6d07db61b3305e3219c3",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "相关文献_20261110/Zhang2026_源码核查/来源与数据核查.json",
+    "bytes": 421,
+    "sha256": "fd34f1b7173909df2aa7686db39d0662a1a9d27ba81fd6179ce22ccca2855bbb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "相关文献_20261110/任务定位与紧密相关文献.md",
+    "bytes": 10201,
+    "sha256": "01791e568c863c6fa53a882ccb4ad34c1ee7ba841dfd0012bb4e36d6987452f7",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "距离拓扑_20261109/build_graph.py",
+    "bytes": 2509,
+    "sha256": "ddd7f6b7db6a5736bcb49693cc0d7034cd89de497823502f3c161afc7a683633",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "距离拓扑_20261109/finalize_locations.py",
+    "bytes": 1528,
+    "sha256": "ea44b099786c6def90c5381b22af010377472d86bc380b3d7208d8c9e8e888c9",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "距离拓扑_20261109/geocode.py",
+    "bytes": 7709,
+    "sha256": "a49895b66667696fbb088e73b6fe9d71ebc3be831aee59ada6ef54e840cc70a7",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "距离拓扑_20261109/results.py",
+    "bytes": 7116,
+    "sha256": "36f1f1459afa1739bb059c9abe29831a16752249356253f3856a995ec47416c4",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "距离拓扑_20261109/retry_failed.py",
+    "bytes": 901,
+    "sha256": "47f95a8f8fde1c98fe5eeef173232269d48ce0ea385591565aff531737e93213",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "距离拓扑_20261109/run_distance.py",
+    "bytes": 9368,
+    "sha256": "4fa3b80bf21e159cb0096dd9fa64ad7cd38907947f05c74fe390dc55699e9087",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "距离拓扑_20261109/分指标比较.csv",
+    "bytes": 1930,
+    "sha256": "45138276a058f8253037e569ec17375583a81cc59e64457a7e3d062692e2442a",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "距离拓扑_20261109/地图定位汇总.json",
+    "bytes": 386,
+    "sha256": "cd8ec1a2a227cc3a3889f8d8e7e5f83fd3ce66cfc089475695c53e6b35a478db",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "距离拓扑_20261109/实验报告.md",
+    "bytes": 5699,
+    "sha256": "ce615b6083f41ad0063d6769785e05c034ef0e61de676b42253c0e6e83c50e16",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "距离拓扑_20261109/总体与定位子集比较.csv",
+    "bytes": 634,
+    "sha256": "cb90994466d7d259a2eda4a4bd3b31d3642a2e49ae26b50ff9e671776988e837",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "距离拓扑_20261109/核验.json",
+    "bytes": 158,
+    "sha256": "ebdd403c2ecf42ea62a0d0ecf421beffd3bf3588679ed8da0a41a0b814b7c5ae",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "距离拓扑_20261109/站点地图定位.csv",
+    "bytes": 204896,
+    "sha256": "bb112c09e124c763624550d911f123114634db55ce20024fe91ac042c6dbb659",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "距离拓扑_20261109/训练记录.json",
+    "bytes": 1577,
+    "sha256": "813752c8aced6de4b0840fe0f9b98c447e98be97c8a83ac41358d98b456d42bb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "距离拓扑_20261109/距离关联站点.csv",
+    "bytes": 57026,
+    "sha256": "7e568e31f9bc6df39b084439fe949a3f340e27fb1641fb7853932133ffe63490",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "距离拓扑_20261109/距离建图记录.json",
+    "bytes": 284,
+    "sha256": "4cf990dc1b8f1365dbfc4cc1e0b6eaf2eae44e92483bbcd51910631990d37fa8",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "距离拓扑_20261109/逐站点误差.csv",
+    "bytes": 1274970,
+    "sha256": "e4cf2d9e444dec680f34b513cf890a776ec1d00369c7053b7d1db6fbda9ac909",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练全站拓扑LoRA_20261109/results.py",
+    "bytes": 6385,
+    "sha256": "b451b53bfb53ef77abe6f4f749cdee3b70911d3795be5d12b7e46c971ad1836c",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练全站拓扑LoRA_20261109/run.py",
+    "bytes": 7976,
+    "sha256": "236ff890a5673913b602554c36754fcd21c2f597bf4103339227f8999d57ab1e",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练全站拓扑LoRA_20261109/分指标结果.csv",
+    "bytes": 2457,
+    "sha256": "318235ce965dc1491b031c18f79e7eae049319ca9409ec8ab3ab4547a29b225a",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练全站拓扑LoRA_20261109/实验报告.md",
+    "bytes": 4550,
+    "sha256": "e21288754be2be76524185cff1f22826ab30631b85bc4f7534c9541ee7266bb5",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练全站拓扑LoRA_20261109/总体比较.csv",
+    "bytes": 329,
+    "sha256": "5c7442f4e31be86e6c1d806ddcbb70a15eb7c39e666004164933ac4f351195b9",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练全站拓扑LoRA_20261109/独立核验.json",
+    "bytes": 401,
+    "sha256": "1d760a8ef12c5e8dad7ce2e619da3a7d1872a0558d38b56d27a8a436504dc2a9",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练全站拓扑LoRA_20261109/训练记录.json",
+    "bytes": 2352,
+    "sha256": "cf98da8ba00a21c9cb0d072eae00c5dd9818ec90012c63be0cca590579ce9344",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练全站拓扑LoRA_20261109/逐站点误差.csv",
+    "bytes": 1601602,
+    "sha256": "7a690bbc9bb6816a0071e5427e8cc21931c0cb5d21df7d614c799abaf0efec46",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练模型水质24小时评估_20261103/01_逐站点三模型两条件四指标误差.csv",
+    "bytes": 4657782,
+    "sha256": "7ad6d5788d6978d60977220dbda2b92052687cfedf666a721c9df99422ec3e03",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练模型水质24小时评估_20261103/02_总体R2与误差对比.csv",
+    "bytes": 4073,
+    "sha256": "3c7c7df3b40f9ffec99fe1eb02c3c5531dc120927414dddf54e6a1d4bcf08404",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练模型水质24小时评估_20261103/03_分流域R2与误差对比.csv",
+    "bytes": 38485,
+    "sha256": "3e5935b100d479e439e62908089a25ca7910aaefcdd5dc1634f57f61c1944472",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练模型水质24小时评估_20261103/04_加入未来易测值的逐站点收益.csv",
+    "bytes": 2903835,
+    "sha256": "daa55e1a0b45ddac5824df6f14e1797910ed6f5f1051dd43b9f1da87c4bec2d3",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练模型水质24小时评估_20261103/05_R2大于05的站点指标明细.csv",
+    "bytes": 135975,
+    "sha256": "a38541f2ab0b7d98488d9f765a5ba3a47161a96c6cb192d878dd4ffa65354376",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练模型水质24小时评估_20261103/06_高R2站点去重统计.csv",
+    "bytes": 473,
+    "sha256": "bd2564a5e32c739dc95dee9bd9ca8167207e85c70fdbe6c5e39d95ccf1fad20c",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练模型水质24小时评估_20261103/benchmark.py",
+    "bytes": 10820,
+    "sha256": "64418112a559ba62e4d71ed260e37139e71738c4f482d3b11a84896ea8172a10",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练模型水质24小时评估_20261103/check_future_inputs.py",
+    "bytes": 2771,
+    "sha256": "76d5ec922a42f9b7e242885ab31287516751f442df67c050fdceb3fa4d73db7e",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练模型水质24小时评估_20261103/summarize.py",
+    "bytes": 10104,
+    "sha256": "8ef998f4b53674b176f563ce014db62a896ba85ea0e38c8943d55b53a7ec5246",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练模型水质24小时评估_20261103/verify.py",
+    "bytes": 4499,
+    "sha256": "edaca85db367f35ae64f3cee30022fe28bf45a66002ae4ab43b8c417c221fde9",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练模型水质24小时评估_20261103/实验配置.json",
+    "bytes": 1861,
+    "sha256": "fda45cf4f2511b7d7043aa9ab10004d3fffe939ce2ad376e1e29f5dfe0ec7adb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练模型水质24小时评估_20261103/未来输入隔离核验.json",
+    "bytes": 745,
+    "sha256": "668bc7ad65c2d9fd2b0d01b3c09a090cbedff8a8f962db7afab6167656fde440",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练模型水质24小时评估_20261103/本地权重清单.csv",
+    "bytes": 966,
+    "sha256": "7842bd1e404abd68f22d510b83f829fda44d54a4dca94c3dd444e1021a5839cf",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练模型水质24小时评估_20261103/独立核验.json",
+    "bytes": 462,
+    "sha256": "c2b16599fb4b691e0be290773407ef3b6986f62cce77b3756bcffcf04dfc9021",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "预训练模型水质24小时评估_20261103/评估报告.md",
+    "bytes": 5504,
+    "sha256": "d6ec444d4999091d24e23cd854b593c3098e138c95b9c787731f936a676dfc0b",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "全站拓扑联合预测_20261109/拓扑与站点.npz",
+    "bytes": 87548,
+    "sha256": "565d1664be397cd44ae7ec969d089c7da57e5969c93d5f5da5991c68d200bbf1",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "距离拓扑_20261109/距离拓扑.npz",
+    "bytes": 791531,
+    "sha256": "7d819e3d703987bd22194b400b509f7af65db93bcbf5cbc442d4a741845d45f4",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/河网拓扑_保守.npz",
+    "bytes": 8645,
+    "sha256": "845a12fa9ea2566bd823d7bd3c12fd0132f1ec1e7271371a353556186ae0ba9a",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "河网三图预测_20261110/河网拓扑_探索.npz",
+    "bytes": 9344,
+    "sha256": "25c2eb3fe49155b0ada86e3a48ac5657e3055feb59acab84d160889dee6903af",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/selection_时滞图.npz",
+    "bytes": 387017,
+    "sha256": "a5de86422270d17ba9d3de17a546ef4f76f73920f669b693050c6eb940023a38",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "时滞邻站对照_20261110/final_时滞图.npz",
+    "bytes": 378262,
+    "sha256": "5ad249595d78649032acdaa264f694ad48d20e922d9deb56c8b6b72e8e7f0b5a",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "GraphWaveNet拓扑对照_20261109/source/model.py",
+    "bytes": 7941,
+    "sha256": "b2fd1d7acd32d9c923f2a262c63d16e1493f174fe253a5d7dafb5e26baf5e6f8",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "GraphWaveNet拓扑对照_20261109/source/LICENSE",
+    "bytes": 1079,
+    "sha256": "3fa452a8f852344684e83271874f89e0414c3faa0c6c0d26b148392840ea56f6",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/THIRD_PARTY_LICENSE_DAG.txt",
+    "bytes": 1083,
+    "sha256": "342561c98d0c70a7a4f1a02847cc6406f92d4a0157c94e931e42f682fe587de9",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG仓库实现复评_20261106/THIRD_PARTY_LICENSE_DAG.txt",
+    "bytes": 1083,
+    "sha256": "342561c98d0c70a7a4f1a02847cc6406f92d4a0157c94e931e42f682fe587de9",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "DLinear_DAG水质24小时评估_20261106/THIRD_PARTY_LICENSE_DLinear.txt",
+    "bytes": 11601,
+    "sha256": "e654fdb6d490c78db974cf7e0feb3101fa20199e59074ce3294faf25cf2e61d9",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "COSA官方源码水质评估_20261106/THIRD_PARTY_LICENSE_COSA.txt",
+    "bytes": 21284,
+    "sha256": "09ee9e203ad9bb0548ce248e0906ba3215d6feb47e54f02c8fbf82349fe07f39",
+    "source": "local project snapshot"
+  }
+]

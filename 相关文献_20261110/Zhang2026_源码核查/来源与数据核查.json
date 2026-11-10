@@ -1,0 +1,16 @@
+{
+  "retrieved": "2026-11-10",
+  "repository": "https://github.com/GeoScene-Lab/FlowAware-TGCN-WaterQuality",
+  "branch": "master",
+  "poyang_adjacency_shape": [
+    60,
+    60
+  ],
+  "poyang_directed_edges": 61,
+  "poyang_undirected_nonzero_entries": 122,
+  "listed_station_relationships": 61,
+  "ganjiang_tn_rows": 1826,
+  "ganjiang_tn_stations": 27,
+  "full_paper_available": false,
+  "source_files_preserved": true
+}

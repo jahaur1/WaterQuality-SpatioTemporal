@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "base_sha256": "ddcda3c7508bf2528087723e98a20707cc04b7f370ae275a9fd88078ddba4f42",
+  "selection_steps": 500,
+  "trainable": 1206912,
+  "splits": {
+    "selection_train": 27130,
+    "validation": 9107,
+    "refit_train": 38171,
+    "test": 23136
+  },
+  "peft": "0.17.1",
+  "seed": 20261109,
+  "only_lora_trainable": true,
+  "original_test_forecasts_identical": true,
+  "reloaded_adapter_batch_replay": true,
+  "final_adapter_sha256": "cd9500c974998f7e881fbc9a21bf2fa7c16857da913e2087a931b898e5b2dd7c"
+}

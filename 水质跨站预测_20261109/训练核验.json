@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "best_steps": 500,
+  "test_pairs": 23136,
+  "same_test_rows_and_truth": true,
+  "trainable": 1206912,
+  "same_windows_per_batch": 32,
+  "graph_history_only": true,
+  "test_replay_passed": true
+}

@@ -1,0 +1,5 @@
+﻿模型,分支,站点数,任一指标R2大于05,四项均R2大于05,任一指标R2大于05_且至少20对,任一指标R2大于08,四项均R2大于08,任一指标R2大于08_且至少20对
+DLinear（任务适配）,conditional_future_easy,750,53,0,28,2,0,0
+DLinear（任务适配）,history_only,750,11,1,7,1,0,0
+DAG（任务适配）,conditional_future_easy,750,43,1,22,2,0,1
+DAG（任务适配）,history_only,750,32,0,14,0,0,0

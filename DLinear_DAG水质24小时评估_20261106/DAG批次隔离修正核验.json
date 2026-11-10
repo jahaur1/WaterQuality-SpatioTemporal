@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "seed": 20261106,
+  "synthetic_windows": 7,
+  "chemical_targets": 4,
+  "original_gate_batch_vs_single_max_abs_difference": 7.62939453125e-05,
+  "corrected_gate_batch_vs_single_max_abs_difference": 1.1920928955078125e-07,
+  "change": "attn_alpha.repeat(series_dim,1,1,1) -> repeat_interleave(series_dim,dim=0)",
+  "both_no_future_adapters_ignore_future_easy": true,
+  "note": "Numerical isolation test, not accuracy evaluation or training."
+}
