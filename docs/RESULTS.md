@@ -61,7 +61,24 @@ History and future easy covariates are read from the filled 4-hour series. Test 
 | 三图_单位对照 | -0.3563 | 171 | 14 |
 | 插值后三图_单位对照 | -1.6090 | 186 | 20 |
 
-The total-nitrogen mean is pulled by S1216 (R2 -3510, MAE 0.619 mg/L). The total-nitrogen median R2 is -0.055.
+MAE and RMSE are means of the 750 per-station values, in mg/L. The four indicators are not averaged together. Source: [分指标比较.csv](../插值后三图_单位对照_20261111/分指标比较.csv).
+
+| 模型 | 指标 | MAE | RMSE |
+| --- | --- | --- | --- |
+| 冻结 Chronos-2 | 高锰酸盐指数 | 0.341213 | 0.527691 |
+| 冻结 Chronos-2 | 氨氮 | 0.045357 | 0.078812 |
+| 冻结 Chronos-2 | 总磷 | 0.010806 | 0.017064 |
+| 冻结 Chronos-2 | 总氮 | 0.211625 | 0.315542 |
+| 三图_单位对照 | 高锰酸盐指数 | 0.323937 | 0.489064 |
+| 三图_单位对照 | 氨氮 | 0.043569 | 0.075219 |
+| 三图_单位对照 | 总磷 | 0.010405 | 0.016199 |
+| 三图_单位对照 | 总氮 | 0.204112 | 0.300050 |
+| 插值后三图_单位对照 | 高锰酸盐指数 | 0.335223 | 0.502138 |
+| 插值后三图_单位对照 | 氨氮 | 0.048417 | 0.081003 |
+| 插值后三图_单位对照 | 总磷 | 0.010528 | 0.016343 |
+| 插值后三图_单位对照 | 总氮 | 0.212065 | 0.309510 |
+
+The total-nitrogen mean R2 is pulled by S1216 (R2 -3510, MAE 0.619 mg/L). The total-nitrogen median R2 is -0.055. Its MAE stays 0.212.
 
 ## Exact-time raw chemical lag branch, separate architecture group
 
