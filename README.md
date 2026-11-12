@@ -4,7 +4,7 @@
 
 Multi-station water-quality conditional forecasting with easy-to-measure indicators, historical chemical observations, and spatiotemporal relationships.
 
-当前研究快照：**2026-11-10**。此仓库保存现有实验代码、适配记录、配置、派生统计表、实验报告与文献核查，保留本地实验目录名。原始监测数据、预训练及训练后权重、输入/预测缓存和地图下载缓存不随仓库发布。
+当前研究快照：**2026-11-12**。此仓库保存现有实验代码、适配记录、配置、派生统计表、实验报告与文献核查，保留本地实验目录名。30 天 750 站实测表、区间边界辅助观测和 4 小时线性插值表已随仓库发布。25 个月原始采集、预训练及训练后权重、预测缓存和河网地图不随仓库发布。
 
 ## 研究任务
 
@@ -73,7 +73,7 @@ Multi-station water-quality conditional forecasting with easy-to-measure indicat
 
 ## 使用方式
 
-先阅读[复现和本地资源说明](docs/REPRODUCIBILITY.md)。本仓库是研究快照，**没有打包完整运行环境与输入缓存**；查看报告和汇总无需原始数据，重新训练需要补齐本地资源、第三方依赖和权重。运行环境参考`requirements-core.txt`及`docs/ENVIRONMENT.md`。
+先阅读[复现和本地资源说明](docs/REPRODUCIBILITY.md)。本仓库是研究快照，**没有打包完整运行环境与输入缓存**；30 天水质表已在仓库内，重新训练仍需补齐预训练权重、配对索引、第三方依赖和本地缓存。运行环境参考`requirements-core.txt`及`docs/ENVIRONMENT.md`。
 
 ```powershell
 python tools/verify_snapshot.py
@@ -91,4 +91,4 @@ python tools/link_local_assets.py --workspace "D:\path\to\original_workspace"
 
 Graph WaveNet作者核心及其许可、DAG/DLinear适配所需的第三方许可分别保留。其余下载源码、运行环境和权重按本地资源处理。未核实再分发许可的第三方XLinear文件和Zhang研究仓库源码没有直接发布；保留研究记录与官方链接。[来源与许可范围](THIRD_PARTY_NOTICES.md)
 
-仓库没有为全部原创及第三方代码统一新增许可证。各第三方文件遵循其原始许可，研究数据也不因本次代码整理而获得再分发授权。
+仓库没有为全部原创及第三方代码统一新增许可证。各第三方文件遵循其原始许可。30 天 750 站水质表随本次提交发布，仓库没有为这些数据另写许可证。

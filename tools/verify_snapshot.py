@@ -23,8 +23,6 @@ def main():
             issues.append({'path':item['path'],'issue':'snapshot hash mismatch'})
         if path.suffix.lower() in {'.pt','.pth','.ckpt','.safetensors','.pkl','.pickle'}:
             issues.append({'path':item['path'],'issue':'model binary in export'})
-        if path.name=='水质数据_750站点_20250410-20250510.csv':
-            issues.append({'path':item['path'],'issue':'raw dataset in export'})
     # Only the published paths plus repository-owned tools/docs; do not walk linked assets.
     paths=[ROOT/item['path'] for item in manifest]
     paths+=list((ROOT/'tools').glob('*.py'))

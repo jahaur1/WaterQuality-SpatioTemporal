@@ -49,6 +49,20 @@ Source: [河网三图预测_20261110/总体比较.csv](../河网三图预测_202
 | 三图_单位对照 | -0.356348 | 171 | 14 |
 | 三图_河网探索 | -0.356687 | 170 | 14 |
 
+## Same 24-update run on the 4-hour linear interpolation
+
+Source: [插值后三图_单位对照_20261111/总体比较.csv](../插值后三图_单位对照_20261111/总体比较.csv)
+
+History and future easy covariates are read from the filled 4-hour series. Test labels stay the original measurements. This row is not pooled with the unfilled runs above.
+
+| 模型 | 四指标平均R2 | 任一项R2超过0.5站数 | 任一项R2超过0.8站数 |
+| --- | --- | --- | --- |
+| 冻结 Chronos-2 | -0.7852 | 185 | 23 |
+| 三图_单位对照 | -0.3563 | 171 | 14 |
+| 插值后三图_单位对照 | -1.6090 | 186 | 20 |
+
+The total-nitrogen mean is pulled by S1216 (R2 -3510, MAE 0.619 mg/L). The total-nitrogen median R2 is -0.055.
+
 ## Exact-time raw chemical lag branch, separate architecture group
 
 Source: [时滞邻站对照_20261110/总体比较.csv](../时滞邻站对照_20261110/总体比较.csv)
@@ -68,5 +82,5 @@ Source: [时滞邻站对照_20261110/总体比较.csv](../时滞邻站对照_202
 - Official single-station Chronos-2 LoRA used 500 updates; joint graph pilot runs mostly used 24.
 - Dataset quality, Pearson statistics and candidate station selections are descriptive analyses.
 
-Original data, predictions, checkpoints and some large detailed tables are local-only. See REPRODUCIBILITY.md.
+The 30-day measured table, boundary anchors, and 4-hour linear interpolation are in the repository. Monthly raw scrapes, predictions, checkpoints, and some large detailed tables remain local-only. See REPRODUCIBILITY.md.
 The test interval has been inspected in multiple rounds; confirmatory results require a new holdout period.

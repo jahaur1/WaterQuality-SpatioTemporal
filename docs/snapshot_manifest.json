@@ -55,8 +55,8 @@
   },
   {
     "path": "30天_750站点数据集_20250410-20250510/数据集说明.md",
-    "bytes": 3123,
-    "sha256": "d647fdba722398a5bbd76456e2c134fd1abe9e0094521ec94ce37d5c331ded48",
+    "bytes": 3551,
+    "sha256": "6b12729a143dc135f34cd526f0c2a4774dba5e054c242f6cd16a410cfdc13eec",
     "source": "local project snapshot"
   },
   {
@@ -2499,6 +2499,72 @@
     "path": "COSA官方源码水质评估_20261106/THIRD_PARTY_LICENSE_COSA.txt",
     "bytes": 21284,
     "sha256": "09ee9e203ad9bb0548ce248e0906ba3215d6feb47e54f02c8fbf82349fe07f39",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "插值后三图_单位对照_20261111/run.py",
+    "bytes": 7874,
+    "sha256": "456501708c490823d53737c1be3d35e0ca4b160d2437b873f12ec716657071fc",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "插值后三图_单位对照_20261111/results.py",
+    "bytes": 2945,
+    "sha256": "716dda3e4931b0000b0c130c68b979b9eae8ea142727c3c30b17845d6d0d4534",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "插值后三图_单位对照_20261111/实验报告.md",
+    "bytes": 1091,
+    "sha256": "526a8478fc71ff617b49c27653362936a5a0bc2c3ce069493ffa385078cf44d1",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "插值后三图_单位对照_20261111/总体比较.csv",
+    "bytes": 232,
+    "sha256": "9d83d9713435429dbae14c742911afdc2878fefd63097d05f2e655937918becd",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "插值后三图_单位对照_20261111/分指标比较.csv",
+    "bytes": 1231,
+    "sha256": "27b21ca9f63f41d85c2995bcbbb655e03b31b63cdfd969fbc0a14c7c42b40329",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "插值后三图_单位对照_20261111/逐站点误差.csv",
+    "bytes": 965098,
+    "sha256": "eccb5696e7f3f969d24697eee81716c9d73b1a8d92a685cf29746becb9837033",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "插值后三图_单位对照_20261111/训练记录.json",
+    "bytes": 1379,
+    "sha256": "499f879f8b9c06a09a2b9430907c23a852925c617d516e8dd4e42e86cdc473ec",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/水质数据_750站点_20250410-20250510.csv",
+    "bytes": 16157328,
+    "sha256": "9267d65df4c67f934339812b9fdea839696594c8c55af6b8f6fefb445d3cb7eb",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/水质数据_750站点_4小时线性插值.csv",
+    "bytes": 18770476,
+    "sha256": "94bda6cddd2da1952592466ffe02511ea68f3e9899c8fe241199bc7a0e3e3c60",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/区间边界辅助观测.csv",
+    "bytes": 7888,
+    "sha256": "763b90477a759a10236f218c63e03b48f1753d996d3393651f42b6d04174e332",
+    "source": "local project snapshot"
+  },
+  {
+    "path": "30天_750站点数据集_20250410-20250510/线性插值.py",
+    "bytes": 3098,
+    "sha256": "6267d9b6189ed4107d0133006b2f67244fe1c1d8e7ea33d1879f3dd64be046d5",
     "source": "local project snapshot"
   }
 ]
